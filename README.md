@@ -17,5 +17,7 @@ SSLS-Frontiers_Analysis.ipynb
 4) HURRICANE DORIAN CASE STUDY: Understanding how the sensor network and tidal cycles respond to extreme events is vital to the purpose of this project. Hurrican Dorian is studied by conducting spatial analysis during the two weeks surrounding the hurricane. Effects of rain and wind are also considered in this analysis. 
 
 Reference APIs:
+
 https://dev.sealevelsensors.org/
+
 https://tidesandcurrents.noaa.gov/waterlevels.html?id=8670870
