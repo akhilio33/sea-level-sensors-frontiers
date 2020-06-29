@@ -1,0 +1,1320 @@
+,mins,mintimes,sensornamemin
+0,100.0,2020-02-23 12:00:00-05:00,fake
+1,100.0,2020-02-23 12:00:00-05:00,fake
+2,-4.094688,2020-02-24 03:04:58.840000-05:00,Kilkenny Creek environmental sensors
+3,-4.150464999999999,2020-02-24 15:54:38.988000-05:00,Kilkenny Creek environmental sensors
+4,-3.8748609999999992,2020-02-25 03:37:19.477000-05:00,Kilkenny Creek environmental sensors
+5,-4.416226,2020-02-25 16:27:53.871000-05:00,Kilkenny Creek environmental sensors
+6,-4.1767129999999995,2020-02-26 04:08:08.749000-05:00,Kilkenny Creek environmental sensors
+7,-4.52778,2020-02-26 16:33:24.164000-05:00,Kilkenny Creek environmental sensors
+8,-5.157732000000001,2020-02-27 04:13:32.133000-05:00,Kilkenny Creek environmental sensors
+9,-4.403101999999999,2020-02-27 16:33:46.525000-05:00,Kilkenny Creek environmental sensors
+10,-3.966728999999999,2020-02-28 05:02:21.754000-05:00,Kilkenny Creek environmental sensors
+11,-4.153746,2020-02-28 17:22:50.968000-05:00,Kilkenny Creek environmental sensors
+12,-4.4785650000000015,2020-02-29 05:34:15.548000-05:00,Kilkenny Creek environmental sensors
+13,-4.334201,2020-02-29 17:34:57.836000-05:00,Kilkenny Creek environmental sensors
+14,-3.490983999999999,2020-03-01 06:20:24.733000-05:00,Kilkenny Creek environmental sensors
+15,-3.7764310000000005,2020-03-01 18:14:18.130000-05:00,Kilkenny Creek environmental sensors
+16,-2.8380650000000003,2020-03-02 06:44:35.125000-05:00,Kilkenny Creek environmental sensors
+17,-3.349901000000001,2020-03-02 19:14:54.100000-05:00,Kilkenny Creek environmental sensors
+18,-3.153041,2020-03-03 08:05:17.422000-05:00,Kilkenny Creek environmental sensors
+19,-3.6058190000000003,2020-03-03 20:15:26.842000-05:00,Kilkenny Creek environmental sensors
+20,-3.4122400000000006,2020-03-04 09:46:08.771000-05:00,Kilkenny Creek environmental sensors
+21,-2.759321,2020-03-04 21:41:10.933000-05:00,Kilkenny Creek environmental sensors
+22,-2.5952710000000003,2020-03-05 10:41:38.782000-05:00,Kilkenny Creek environmental sensors
+23,-3.067734999999999,2020-03-05 22:56:49.363000-05:00,Kilkenny Creek environmental sensors
+24,-4.281704999999999,2020-03-06 11:47:16.019000-05:00,Kilkenny Creek environmental sensors
+25,-5.7778410000000004,2020-03-06 23:57:22.752000-05:00,Kilkenny Creek environmental sensors
+26,-4.324357999999998,2020-03-07 12:32:43.296000-05:00,Kilkenny Creek environmental sensors
+27,-5.640038999999998,2020-03-08 01:08:06.976000-05:00,Kilkenny Creek environmental sensors
+28,-4.842756,2020-03-08 14:48:30.327000-04:00,Kilkenny Creek environmental sensors
+29,-5.603948000000001,2020-03-09 03:18:45.990000-04:00,Kilkenny Creek environmental sensors
+30,-5.430055000000001,2020-03-09 15:49:08.383000-04:00,Kilkenny Creek environmental sensors
+31,-5.984544,2020-03-10 04:04:16.517000-04:00,Kilkenny Creek environmental sensors
+32,-5.715502000000001,2020-03-10 16:34:35.920000-04:00,Kilkenny Creek environmental sensors
+33,-6.164999,2020-03-11 05:04:50.281000-04:00,Kilkenny Creek environmental sensors
+34,-5.794246000000001,2020-03-11 17:25:06.175000-04:00,Kilkenny Creek environmental sensors
+35,-5.8598659999999985,2020-03-12 05:55:20.488000-04:00,Kilkenny Creek environmental sensors
+36,-5.722064,2020-03-12 18:11:37.048000-04:00,Kilkenny Creek environmental sensors
+37,-5.390682999999999,2020-03-13 06:46:53.555000-04:00,Kilkenny Creek environmental sensors
+38,-5.548171,2020-03-13 18:52:03.872000-04:00,Kilkenny Creek environmental sensors
+39,-5.34803,2020-03-14 07:32:22.266000-04:00,Kilkenny Creek environmental sensors
+40,-4.704954000000001,2020-03-14 19:32:29.071000-04:00,Kilkenny Creek environmental sensors
+41,-4.045472999999999,2020-03-15 08:22:51.923000-04:00,Kilkenny Creek environmental sensors
+42,-3.9240759999999995,2020-03-15 20:02:48.272000-04:00,Kilkenny Creek environmental sensors
+43,-2.404973,2020-03-16 09:13:17.512000-04:00,Kilkenny Creek environmental sensors
+44,-2.8479080000000003,2020-03-16 21:28:26.890000-04:00,Kilkenny Creek environmental sensors
+45,-3.2055369999999996,2020-03-17 10:29:00.063000-04:00,Kilkenny Creek environmental sensors
+46,-2.864312999999999,2020-03-17 22:18:58.845000-04:00,Kilkenny Creek environmental sensors
+47,-3.3630250000000004,2020-03-18 11:29:32.505000-04:00,Kilkenny Creek environmental sensors
+48,-3.0742969999999996,2020-03-18 23:24:30.383000-04:00,Kilkenny Creek environmental sensors
+49,-3.687844,2020-03-19 12:14:58.113000-04:00,Kilkenny Creek environmental sensors
+50,-3.6714389999999995,2020-03-20 00:30:06.930000-04:00,Kilkenny Creek environmental sensors
+51,-4.219366000000001,2020-03-20 13:10:31.244000-04:00,Kilkenny Creek environmental sensors
+52,-4.347325000000001,2020-03-21 01:20:35.711000-04:00,Kilkenny Creek environmental sensors
+53,-5.131484,2020-03-21 14:00:57.940000-04:00,Kilkenny Creek environmental sensors
+54,-4.832913,2020-03-22 01:40:50.227000-04:00,Kilkenny Creek environmental sensors
+55,-3.1202309999999986,2020-03-22 14:41:20.572000-04:00,Kilkenny Creek environmental sensors
+56,1.151631,2020-03-22 23:50:10.534000-04:00,Kilkenny Creek environmental sensors
+57,100.0,2020-02-23 12:00:00-05:00,fake
+58,-4.560590000000001,2020-02-24 03:28:13.758000-05:00,Coffee Bluff Marina environmental sensors
+59,-4.672144000000001,2020-02-24 16:06:41.163000-05:00,Coffee Bluff Marina environmental sensors
+60,-4.2817050000000005,2020-02-25 04:08:34.990000-05:00,Coffee Bluff Marina environmental sensors
+61,-4.7869790000000005,2020-02-25 16:53:01.560000-05:00,Coffee Bluff Marina environmental sensors
+62,-4.7312020000000015,2020-02-26 04:24:44.272000-05:00,Coffee Bluff Marina environmental sensors
+63,-4.888690000000002,2020-02-26 16:57:02.586000-05:00,Coffee Bluff Marina environmental sensors
+64,-5.702378000000001,2020-02-27 04:52:52.614000-05:00,Coffee Bluff Marina environmental sensors
+65,-5.3217820000000025,2020-02-27 17:31:18.768000-05:00,Coffee Bluff Marina environmental sensors
+66,-4.586838,2020-02-28 05:33:13.858000-05:00,Coffee Bluff Marina environmental sensors
+67,-4.8624420000000015,2020-02-28 17:59:33.359000-05:00,Coffee Bluff Marina environmental sensors
+68,-5.138046000000001,2020-02-29 05:49:18.429000-05:00,Coffee Bluff Marina environmental sensors
+69,-5.279129000000003,2020-02-29 18:03:29.146000-05:00,Coffee Bluff Marina environmental sensors
+70,-4.2456140000000016,2020-03-01 06:29:37.873000-05:00,Coffee Bluff Marina environmental sensors
+71,-4.576995,2020-03-01 18:49:52.723000-05:00,Coffee Bluff Marina environmental sensors
+72,-3.632067000000001,2020-03-02 06:57:51.561000-05:00,Coffee Bluff Marina environmental sensors
+73,-4.147184000000001,2020-03-02 19:24:09.867000-05:00,Coffee Bluff Marina environmental sensors
+74,-3.966729000000001,2020-03-03 08:14:44.523000-05:00,Coffee Bluff Marina environmental sensors
+75,-4.360449000000001,2020-03-03 20:23:02.227000-05:00,Coffee Bluff Marina environmental sensors
+76,-4.176713000000001,2020-03-04 10:02:04.971000-05:00,Coffee Bluff Marina environmental sensors
+77,-3.4877030000000016,2020-03-04 21:57:58.086000-05:00,Coffee Bluff Marina environmental sensors
+78,-3.3466200000000015,2020-03-05 10:48:27.496000-05:00,Coffee Bluff Marina environmental sensors
+79,-3.7108110000000014,2020-03-05 23:26:47.785000-05:00,Coffee Bluff Marina environmental sensors
+80,-4.967434000000001,2020-03-06 12:17:21.785000-05:00,Coffee Bluff Marina environmental sensors
+81,-6.539033,2020-03-07 00:19:17.914000-05:00,Coffee Bluff Marina environmental sensors
+82,-5.026492000000001,2020-03-07 12:45:34.876000-05:00,Coffee Bluff Marina environmental sensors
+83,-6.037040000000001,2020-03-08 01:29:54.246000-05:00,Coffee Bluff Marina environmental sensors
+84,-5.1610130000000005,2020-03-08 15:14:24.889000-04:00,Coffee Bluff Marina environmental sensors
+85,-5.663006000000003,2020-03-09 03:46:39.643000-04:00,Coffee Bluff Marina environmental sensors
+86,-5.348030000000001,2020-03-09 16:12:57.959000-04:00,Coffee Bluff Marina environmental sensors
+87,-5.794246000000003,2020-03-10 04:45:12.635000-04:00,Coffee Bluff Marina environmental sensors
+88,-5.561294999999999,2020-03-10 17:05:29.479000-04:00,Coffee Bluff Marina environmental sensors
+89,-5.889395000000002,2020-03-11 05:43:46.598000-04:00,Coffee Bluff Marina environmental sensors
+90,-5.745031000000001,2020-03-11 17:57:55.957000-04:00,Coffee Bluff Marina environmental sensors
+91,-5.6925349999999995,2020-03-12 06:36:17.216000-04:00,Coffee Bluff Marina environmental sensors
+92,-5.758155000000002,2020-03-12 18:44:24.336000-04:00,Coffee Bluff Marina environmental sensors
+93,-5.433336000000001,2020-03-13 07:22:41.884000-04:00,Coffee Bluff Marina environmental sensors
+94,-5.866428000000001,2020-03-13 19:24:43.177000-04:00,Coffee Bluff Marina environmental sensors
+95,-5.679411000000002,2020-03-14 08:03:00.566000-04:00,Coffee Bluff Marina environmental sensors
+96,-5.308657999999999,2020-03-14 19:52:56.015000-04:00,Coffee Bluff Marina environmental sensors
+97,-4.583557000000001,2020-03-15 08:49:27.831000-04:00,Coffee Bluff Marina environmental sensors
+98,-4.688549000000002,2020-03-15 20:27:12.649000-04:00,Coffee Bluff Marina environmental sensors
+99,-3.182570000000002,2020-03-16 09:41:56.344000-04:00,Coffee Bluff Marina environmental sensors
+100,-3.628786,2020-03-16 21:43:57.910000-04:00,Coffee Bluff Marina environmental sensors
+101,-3.845332000000001,2020-03-17 10:46:38.136000-04:00,Coffee Bluff Marina environmental sensors
+102,-3.678001,2020-03-17 22:42:32.173000-04:00,Coffee Bluff Marina environmental sensors
+103,-4.10125,2020-03-18 11:45:14.814000-04:00,Coffee Bluff Marina environmental sensors
+104,-3.845332000000001,2020-03-18 23:53:15.021000-04:00,Coffee Bluff Marina environmental sensors
+105,-4.442474000000001,2020-03-19 12:43:49.333000-04:00,Coffee Bluff Marina environmental sensors
+106,-4.5244990000000005,2020-03-20 00:51:49.243000-04:00,Coffee Bluff Marina environmental sensors
+107,-4.977277000000001,2020-03-20 13:24:14.305000-04:00,Coffee Bluff Marina environmental sensors
+108,-5.170856000000001,2020-03-21 01:38:18.334000-04:00,Coffee Bluff Marina environmental sensors
+109,-5.925486000000003,2020-03-21 14:28:51.746000-04:00,Coffee Bluff Marina environmental sensors
+110,-5.672848999999999,2020-03-22 02:18:36.245000-04:00,Coffee Bluff Marina environmental sensors
+111,-4.022506,2020-03-22 14:57:00.772000-04:00,Coffee Bluff Marina environmental sensors
+112,0.6233899999999997,2020-03-22 23:50:53.339000-04:00,Coffee Bluff Marina environmental sensors
+113,100.0,2020-02-23 12:00:00-05:00,fake
+114,-4.727921,2020-02-24 02:54:44.885000-05:00,Oatland Island Road environmental sensors
+115,-4.678706000000002,2020-02-24 15:29:07.009000-05:00,Oatland Island Road environmental sensors
+116,-3.8617369999999998,2020-02-25 03:50:52.479000-05:00,Oatland Island Road environmental sensors
+117,-5.000244,2020-02-25 16:23:25.785000-05:00,Oatland Island Road environmental sensors
+118,-4.675425000000001,2020-02-26 04:02:04.715000-05:00,Oatland Island Road environmental sensors
+119,-5.098673999999999,2020-02-26 16:40:44.718000-05:00,Oatland Island Road environmental sensors
+120,-5.735188000000001,2020-02-27 04:23:55.455000-05:00,Oatland Island Road environmental sensors
+121,-5.177417999999999,2020-02-27 17:08:25.121000-05:00,Oatland Island Road environmental sensors
+122,-4.498251,2020-02-28 04:31:34.667000-05:00,Oatland Island Road environmental sensors
+123,-4.668863,2020-02-28 17:08:23.466000-05:00,Oatland Island Road environmental sensors
+124,-5.147889000000001,2020-02-29 05:21:46.838000-05:00,Oatland Island Road environmental sensors
+125,-4.905095000000001,2020-02-29 18:05:44.789000-05:00,Oatland Island Road environmental sensors
+126,-4.045472999999999,2020-03-01 06:14:06.883000-05:00,Oatland Island Road environmental sensors
+127,-4.376854,2020-03-01 18:32:51.643000-05:00,Oatland Island Road environmental sensors
+128,-3.3925540000000005,2020-03-02 06:41:40.858000-05:00,Oatland Island Road environmental sensors
+129,-3.828927,2020-03-02 19:27:47.589000-05:00,Oatland Island Road environmental sensors
+130,-3.6944060000000007,2020-03-03 08:26:10.448000-05:00,Oatland Island Road environmental sensors
+131,-4.13406,2020-03-03 20:15:03.460000-05:00,Oatland Island Road environmental sensors
+132,-3.8978279999999987,2020-03-04 09:39:14.690000-05:00,Oatland Island Road environmental sensors
+133,-3.2317850000000004,2020-03-04 22:26:05.407000-05:00,Oatland Island Road environmental sensors
+134,-1.3484909999999992,2020-03-05 12:15:41.521000-05:00,Oatland Island Road environmental sensors
+135,-3.5795709999999996,2020-03-05 22:42:04.964000-05:00,Oatland Island Road environmental sensors
+136,-5.026492000000001,2020-03-06 11:51:15.404000-05:00,Oatland Island Road environmental sensors
+137,-6.624339000000001,2020-03-06 23:55:02.612000-05:00,Oatland Island Road environmental sensors
+138,-4.990401,2020-03-07 12:38:11.543000-05:00,Oatland Island Road environmental sensors
+139,-6.3881070000000015,2020-03-08 01:14:49.836000-05:00,Oatland Island Road environmental sensors
+140,-5.531766000000001,2020-03-08 14:36:52.325000-04:00,Oatland Island Road environmental sensors
+141,-6.325768,2020-03-09 03:09:53.113000-04:00,Oatland Island Road environmental sensors
+142,-6.220776000000001,2020-03-09 15:29:10.240000-04:00,Oatland Island Road environmental sensors
+143,-6.6669920000000005,2020-03-10 04:14:19.724000-04:00,Oatland Island Road environmental sensors
+144,-6.463570000000001,2020-03-10 16:35:18.657000-04:00,Oatland Island Road environmental sensors
+145,-6.857290000000001,2020-03-11 05:08:30.933000-04:00,Oatland Island Road environmental sensors
+146,-6.611215,2020-03-11 17:17:17.578000-04:00,Oatland Island Road environmental sensors
+147,-6.614496000000001,2020-03-12 05:50:37.333000-04:00,Oatland Island Road environmental sensors
+148,-6.457008,2020-03-12 18:04:29.840000-04:00,Oatland Island Road environmental sensors
+149,-6.122346,2020-03-13 06:58:16.206000-04:00,Oatland Island Road environmental sensors
+150,-6.151875,2020-03-13 18:46:35.183000-04:00,Oatland Island Road environmental sensors
+151,-5.958296000000001,2020-03-14 07:35:26.359000-04:00,Oatland Island Road environmental sensors
+152,-5.308657999999999,2020-03-14 19:18:32.208000-04:00,Oatland Island Road environmental sensors
+153,-4.724639999999999,2020-03-15 08:12:34.238000-04:00,Oatland Island Road environmental sensors
+154,-4.485127,2020-03-15 19:49:35.105000-04:00,Oatland Island Road environmental sensors
+155,-3.1661649999999995,2020-03-16 09:13:05.401000-04:00,Oatland Island Road environmental sensors
+156,-3.4942650000000004,2020-03-16 21:01:04.740000-04:00,Oatland Island Road environmental sensors
+157,-3.9798529999999985,2020-03-17 10:15:26.095000-04:00,Oatland Island Road environmental sensors
+158,-3.4319260000000007,2020-03-17 21:55:16.826000-04:00,Oatland Island Road environmental sensors
+159,-3.87158,2020-03-18 11:33:46.558000-04:00,Oatland Island Road environmental sensors
+160,-3.602538000000001,2020-03-18 23:26:53.676000-04:00,Oatland Island Road environmental sensors
+161,-4.350605999999999,2020-03-19 12:00:45.571000-04:00,Oatland Island Road environmental sensors
+162,-4.337482000000001,2020-03-20 00:29:15.806000-04:00,Oatland Island Road environmental sensors
+163,-4.7312020000000015,2020-03-20 13:02:00.678000-04:00,Oatland Island Road environmental sensors
+164,-4.846036999999999,2020-03-21 01:15:54.225000-04:00,Oatland Island Road environmental sensors
+165,-5.663006000000001,2020-03-21 13:53:17.033000-04:00,Oatland Island Road environmental sensors
+166,-5.400526000000001,2020-03-22 01:39:05.409000-04:00,Oatland Island Road environmental sensors
+167,-3.7009679999999996,2020-03-22 14:25:16.460000-04:00,Oatland Island Road environmental sensors
+168,0.45277800000000035,2020-03-22 23:51:04.575000-04:00,Oatland Island Road environmental sensors
+169,100.0,2020-02-23 12:00:00-05:00,fake
+170,-3.435207,2020-02-24 04:39:56.290000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+171,-3.422082999999999,2020-02-24 17:18:25.154000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+172,-2.9135279999999995,2020-02-25 05:17:20.063000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+173,-3.3367769999999997,2020-02-25 18:01:08.582000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+174,-3.6944060000000007,2020-02-26 05:28:26.352000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+175,-3.799398,2020-02-26 18:03:04.168000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+176,-4.675425000000001,2020-02-27 05:48:21.130000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+177,-4.10125,2020-02-27 17:42:59.020000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+178,-3.697687,2020-02-28 06:12:11.466000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+179,-3.819084,2020-02-28 18:36:19.554000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+180,-4.216085000000001,2020-02-29 06:39:35.058000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+181,-4.1471839999999975,2020-02-29 18:35:27.689000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+182,-3.2777189999999994,2020-03-01 07:01:09.724000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+183,-3.6156620000000004,2020-03-01 19:18:32.948000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+184,-2.7068250000000003,2020-03-02 07:46:48.386000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+185,-3.1038259999999998,2020-03-02 19:55:47.542000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+186,-2.9889909999999986,2020-03-03 08:36:51.306000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+187,-3.323653,2020-03-03 21:14:12.764000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+188,-3.133355,2020-03-04 10:24:22.949000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+189,2.7921310000000004,2020-03-04 17:32:27.113000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+190,,,Hwy 17 at Salt Creek Sea Level Sensor
+191,,,Hwy 17 at Salt Creek Sea Level Sensor
+192,-2.2310800000000004,2020-03-06 13:51:53.411000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+193,-4.052035,2020-03-07 01:22:12.249000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+194,-3.077577999999999,2020-03-07 14:15:59.562000-05:00,Hwy 17 at Salt Creek Sea Level Sensor
+195,-4.1767129999999995,2020-03-08 03:44:25.745000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+196,-2.687139,2020-03-08 16:52:55.509000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+197,-2.293419,2020-03-09 04:20:53.104000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+198,-2.7658830000000005,2020-03-09 17:46:07.455000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+199,-2.601832999999999,2020-03-10 06:27:52.176000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+200,-3.0808589999999985,2020-03-10 18:23:48.475000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+201,-3.828927,2020-03-11 07:05:47.244000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+202,-3.8847039999999993,2020-03-11 19:12:22.895000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+203,-3.6714389999999995,2020-03-12 07:59:08.889000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+204,-4.068439999999999,2020-03-12 20:01:45.579000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+205,-3.520513000000001,2020-03-13 08:45:10.271000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+206,-4.252175999999999,2020-03-13 20:10:52.891000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+207,-4.458879000000001,2020-03-14 09:17:16.759000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+208,-4.321077000000001,2020-03-14 20:55:27.105000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+209,-3.435207,2020-03-15 10:00:05.130000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+210,-3.828927,2020-03-15 21:22:50.908000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+211,-1.9981290000000005,2020-03-16 11:08:10.027000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+212,-2.6904199999999996,2020-03-16 22:46:00.356000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+213,-2.818379,2020-03-17 11:55:08.127000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+214,-2.7626019999999993,2020-03-17 22:58:03.510000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+215,-3.028362999999999,2020-03-18 12:23:32.341000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+216,-2.900404,2020-03-19 00:17:45.185000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+217,-3.4647359999999985,2020-03-19 13:34:58.805000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+218,-3.5894139999999997,2020-03-20 01:26:26.113000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+219,-4.035630000000001,2020-03-20 14:11:14.218000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+220,-3.9732909999999997,2020-03-21 02:42:19.412000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+221,-4.924780999999999,2020-03-21 15:09:54.878000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+222,-4.783698000000001,2020-03-22 02:55:38.167000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+223,-3.136636000000001,2020-03-22 15:45:47.600000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+224,3.976572,2020-03-22 23:43:40.077000-04:00,Hwy 17 at Salt Creek Sea Level Sensor
+225,100.0,2020-02-23 12:00:00-05:00,fake
+226,-4.603243000000001,2020-02-24 02:29:02.913000-05:00,Catalina Drive Sea Level Sensor
+227,-4.79026,2020-02-24 15:15:37.137000-05:00,Catalina Drive Sea Level Sensor
+228,-4.245614,2020-02-25 03:21:50.039000-05:00,Catalina Drive Sea Level Sensor
+229,-4.875566000000001,2020-02-25 15:58:17.868000-05:00,Catalina Drive Sea Level Sensor
+230,-4.714796999999999,2020-02-26 03:44:14.614000-05:00,Catalina Drive Sea Level Sensor
+231,-5.026491999999999,2020-02-26 16:10:29.283000-05:00,Catalina Drive Sea Level Sensor
+232,-5.502236999999999,2020-02-27 04:21:28.826000-05:00,Catalina Drive Sea Level Sensor
+233,-5.0757069999999995,2020-02-27 16:27:45.695000-05:00,Catalina Drive Sea Level Sensor
+234,-4.537623,2020-02-28 04:38:49.757000-05:00,Catalina Drive Sea Level Sensor
+235,-4.678706,2020-02-28 17:15:10.383000-05:00,Catalina Drive Sea Level Sensor
+236,-5.118359999999999,2020-02-29 05:16:08.326000-05:00,Catalina Drive Sea Level Sensor
+237,-5.016648999999999,2020-02-29 17:37:27.915000-05:00,Catalina Drive Sea Level Sensor
+238,-4.055316000000001,2020-03-01 05:56:28.404000-05:00,Catalina Drive Sea Level Sensor
+239,-4.337482,2020-03-01 18:02:44.717000-05:00,Catalina Drive Sea Level Sensor
+240,-3.556604,2020-03-02 06:59:26.751000-05:00,Catalina Drive Sea Level Sensor
+241,-3.9896960000000004,2020-03-02 19:05:38.810000-05:00,Catalina Drive Sea Level Sensor
+242,-3.828927,2020-03-03 08:17:21.920000-05:00,Catalina Drive Sea Level Sensor
+243,-4.1963989999999995,2020-03-03 19:58:15.709000-05:00,Catalina Drive Sea Level Sensor
+244,-4.091407,2020-03-04 09:19:56.830000-05:00,Catalina Drive Sea Level Sensor
+245,-3.497546,2020-03-04 21:25:58.100000-05:00,Catalina Drive Sea Level Sensor
+246,-3.277719000000001,2020-03-05 09:47:10.449000-05:00,Catalina Drive Sea Level Sensor
+247,-3.7403399999999998,2020-03-05 22:33:11.658000-05:00,Catalina Drive Sea Level Sensor
+248,-4.809946,2020-03-06 11:32:33.393000-05:00,Catalina Drive Sea Level Sensor
+249,-6.512785000000001,2020-03-06 23:56:22.136000-05:00,Catalina Drive Sea Level Sensor
+250,-4.996962999999999,2020-03-07 12:12:38.719000-05:00,Catalina Drive Sea Level Sensor
+251,-6.2535859999999985,2020-03-08 01:09:13.104000-05:00,Catalina Drive Sea Level Sensor
+252,-5.584262000000001,2020-03-08 14:25:44.774000-04:00,Catalina Drive Sea Level Sensor
+253,-6.2437429999999985,2020-03-09 03:07:08.798000-04:00,Catalina Drive Sea Level Sensor
+254,-6.096098,2020-03-09 15:38:37.812000-04:00,Catalina Drive Sea Level Sensor
+255,-6.529190000000002,2020-03-10 04:14:54.176000-04:00,Catalina Drive Sea Level Sensor
+256,-6.394669,2020-03-10 16:26:07.179000-04:00,Catalina Drive Sea Level Sensor
+257,-6.709645,2020-03-11 05:07:25.629000-04:00,Catalina Drive Sea Level Sensor
+258,-6.470132000000001,2020-03-11 17:13:30.013000-04:00,Catalina Drive Sea Level Sensor
+259,-6.460289000000001,2020-03-12 05:55:00.691000-04:00,Catalina Drive Sea Level Sensor
+260,-6.358578,2020-03-12 18:01:09.758000-04:00,Catalina Drive Sea Level Sensor
+261,-5.968139000000001,2020-03-13 06:32:25.194000-04:00,Catalina Drive Sea Level Sensor
+262,-6.1223459999999985,2020-03-13 18:48:36.979000-04:00,Catalina Drive Sea Level Sensor
+263,-5.925485999999999,2020-03-14 07:19:48.789000-04:00,Catalina Drive Sea Level Sensor
+264,-5.2824100000000005,2020-03-14 19:10:44.379000-04:00,Catalina Drive Sea Level Sensor
+265,-4.695111000000001,2020-03-15 07:57:05.812000-04:00,Catalina Drive Sea Level Sensor
+266,-4.606524,2020-03-15 19:42:56.526000-04:00,Catalina Drive Sea Level Sensor
+267,-3.277719000000001,2020-03-16 09:04:36.745000-04:00,Catalina Drive Sea Level Sensor
+268,-3.592695000000001,2020-03-16 20:50:22.685000-04:00,Catalina Drive Sea Level Sensor
+269,-3.855174999999999,2020-03-17 09:57:00.245000-04:00,Catalina Drive Sea Level Sensor
+270,-3.658315,2020-03-17 22:23:11.981000-04:00,Catalina Drive Sea Level Sensor
+271,-3.947042999999999,2020-03-18 10:49:24.694000-04:00,Catalina Drive Sea Level Sensor
+272,-3.7403399999999998,2020-03-18 23:20:40.228000-04:00,Catalina Drive Sea Level Sensor
+273,-4.330919999999999,2020-03-19 11:51:57.385000-04:00,Catalina Drive Sea Level Sensor
+274,-4.367011,2020-03-20 00:13:05.217000-04:00,Catalina Drive Sea Level Sensor
+275,-4.793540999999999,2020-03-20 12:54:26.630000-04:00,Catalina Drive Sea Level Sensor
+276,-4.928061999999999,2020-03-21 00:55:15.786000-04:00,Catalina Drive Sea Level Sensor
+277,-5.620353,2020-03-21 13:51:43.660000-04:00,Catalina Drive Sea Level Sensor
+278,-5.443178999999999,2020-03-22 01:52:45.789000-04:00,Catalina Drive Sea Level Sensor
+279,-3.9273570000000007,2020-03-22 14:08:48.265000-04:00,Catalina Drive Sea Level Sensor
+280,-0.7316629999999993,2020-03-22 23:53:33.974000-04:00,Catalina Drive Sea Level Sensor
+281,100.0,2020-02-23 12:00:00-05:00,fake
+282,-3.3927902319999994,2020-02-24 02:05:43.463000-05:00,Fort Pulaski (A) Sea Level Sensor
+283,-3.5141872319999994,2020-02-24 15:16:19.554000-05:00,Fort Pulaski (A) Sea Level Sensor
+284,-3.0384422320000013,2020-02-25 03:10:21.171000-05:00,Fort Pulaski (A) Sea Level Sensor
+285,-3.756981232000003,2020-02-25 15:24:48.352000-05:00,Fort Pulaski (A) Sea Level Sensor
+286,-3.4616912319999997,2020-02-26 03:34:09.768000-05:00,Fort Pulaski (A) Sea Level Sensor
+287,-3.858692232000001,2020-02-26 16:03:57.233000-05:00,Fort Pulaski (A) Sea Level Sensor
+288,-4.209759232000003,2020-02-27 03:52:53.092000-05:00,Fort Pulaski (A) Sea Level Sensor
+289,-3.861973232000002,2020-02-27 16:27:45.137000-05:00,Fort Pulaski (A) Sea Level Sensor
+290,-3.2713932319999994,2020-02-28 04:47:16.054000-05:00,Fort Pulaski (A) Sea Level Sensor
+291,-3.468253232000002,2020-02-28 17:22:11.147000-05:00,Fort Pulaski (A) Sea Level Sensor
+292,-3.9472792320000014,2020-02-29 05:16:13.381000-05:00,Fort Pulaski (A) Sea Level Sensor
+293,-3.711047232000002,2020-02-29 17:30:44.323000-05:00,Fort Pulaski (A) Sea Level Sensor
+294,-2.831739232000002,2020-03-01 05:50:17.746000-05:00,Fort Pulaski (A) Sea Level Sensor
+295,-3.182806231999999,2020-03-01 17:59:42.230000-05:00,Fort Pulaski (A) Sea Level Sensor
+296,-2.3199032319999997,2020-03-02 07:00:05.800000-05:00,Fort Pulaski (A) Sea Level Sensor
+297,-2.7792432320000025,2020-03-02 18:59:15.827000-05:00,Fort Pulaski (A) Sea Level Sensor
+298,-2.736590232000003,2020-03-03 07:49:27.060000-05:00,Fort Pulaski (A) Sea Level Sensor
+299,-2.9957892320000017,2020-03-03 19:38:26.655000-05:00,Fort Pulaski (A) Sea Level Sensor
+300,100.0,2020-02-23 12:00:00-05:00,fake
+301,-2.723230000000001,2020-02-24 03:58:57.681000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+302,-2.706825000000002,2020-02-24 16:38:46.638000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+303,-2.8052550000000007,2020-02-25 03:27:15.538000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+304,-2.824941000000001,2020-02-25 14:56:22.165000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+305,-2.7166680000000003,2020-02-26 03:26:07.352000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+306,-2.687139,2020-02-26 17:22:14.305000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+307,-2.752759000000001,2020-02-27 04:30:53.475000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+308,-2.8315030000000014,2020-02-27 17:00:37.037000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+309,-2.8150980000000008,2020-02-28 04:24:21.214000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+310,-3.041487,2020-02-28 17:39:43.014000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+311,-2.874156000000001,2020-02-29 03:52:36.044000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+312,-2.8052550000000007,2020-02-29 17:13:14.385000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+313,-2.818379,2020-03-01 06:13:14.426000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+314,-2.7954120000000007,2020-03-01 16:56:40.151000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+315,-2.7199490000000015,2020-03-02 06:42:46.035000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+316,-2.7822879999999994,2020-03-02 19:48:04.212000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+317,-2.7101060000000015,2020-03-03 09:08:25.743000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+318,-2.7166680000000003,2020-03-03 21:07:45.452000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+319,-2.844627000000001,2020-03-04 09:47:45.687000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+320,-2.5624610000000008,2020-03-04 22:02:13.278000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+321,-2.5493370000000013,2020-03-05 10:16:51.478000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+322,-2.6248000000000005,2020-03-05 22:36:52.064000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+323,-2.762602000000001,2020-03-06 10:51:45.703000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+324,-2.703544000000001,2020-03-06 23:16:21.330000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+325,-2.78885,2020-03-07 13:47:46.359000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+326,-2.687139,2020-03-08 01:21:35.435000-05:00,Turner Creek Boat Ramp Sea Level Sensor
+327,-2.7265110000000004,2020-03-08 15:16:43.539000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+328,-2.647767,2020-03-09 00:54:10.029000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+329,-2.8118170000000013,2020-03-09 14:14:38.840000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+330,-2.762602000000001,2020-03-10 05:31:32.661000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+331,-2.706825000000002,2020-03-10 17:31:04.008000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+332,-2.637924,2020-03-11 05:50:36.714000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+333,-2.7002629999999996,2020-03-11 15:23:14.516000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+334,-2.6248000000000005,2020-03-12 05:08:50.548000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+335,-2.6707340000000013,2020-03-12 16:01:31.177000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+336,-2.618238,2020-03-13 07:13:14.075000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+337,-2.6608910000000012,2020-03-13 17:36:19.625000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+338,-2.618238,2020-03-14 09:03:23.534000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+339,-2.7002629999999996,2020-03-14 18:20:35.793000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+340,-2.6543290000000006,2020-03-15 07:25:40.820000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+341,-2.703544000000001,2020-03-15 18:24:18.002000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+342,-2.52637,2020-03-16 09:05:36.073000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+343,-2.703544000000001,2020-03-16 20:59:50.069000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+344,-2.687139,2020-03-17 09:50:05.355000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+345,-2.6707340000000013,2020-03-17 21:24:07.786000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+346,-2.7363540000000004,2020-03-18 10:14:13.355000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+347,-2.706825000000002,2020-03-18 22:54:03.441000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+348,-2.6805770000000013,2020-03-19 13:15:24.074000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+349,-2.6740150000000007,2020-03-19 23:58:46.705000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+350,-2.687139,2020-03-20 11:12:32.886000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+351,-2.920090000000002,2020-03-21 00:42:59.291000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+352,-2.9528999999999996,2020-03-21 12:22:14.187000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+353,-2.6280810000000017,2020-03-21 23:45:59.963000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+354,-2.8511890000000015,2020-03-22 14:27:34.189000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+355,1.2927140000000001,2020-03-22 23:34:41.799000-04:00,Turner Creek Boat Ramp Sea Level Sensor
+356,100.0,2020-02-23 12:00:00-05:00,fake
+357,-3.3735045140000004,2020-02-24 02:15:41.616000-05:00,Fort Pulaski (B) Sea Level Sensor
+358,-3.4949015139999986,2020-02-24 15:16:34.023000-05:00,Fort Pulaski (B) Sea Level Sensor
+359,-3.0454045140000012,2020-02-25 03:00:47.863000-05:00,Fort Pulaski (B) Sea Level Sensor
+360,-3.718009514000002,2020-02-25 15:31:01.688000-05:00,Fort Pulaski (B) Sea Level Sensor
+361,-3.432562513999999,2020-02-26 03:30:35.662000-05:00,Fort Pulaski (B) Sea Level Sensor
+362,-3.849249514000002,2020-02-26 16:00:44.344000-05:00,Fort Pulaski (B) Sea Level Sensor
+363,-4.3184325139999995,2020-02-27 04:15:30.398000-05:00,Fort Pulaski (B) Sea Level Sensor
+364,-3.8722165139999998,2020-02-27 16:25:13.632000-05:00,Fort Pulaski (B) Sea Level Sensor
+365,-3.238983514000001,2020-02-28 04:55:22.262000-05:00,Fort Pulaski (B) Sea Level Sensor
+366,-3.498182514,2020-02-28 17:25:36.581000-05:00,Fort Pulaski (B) Sea Level Sensor
+367,-3.875497514000001,2020-02-29 04:59:40.229000-05:00,Fort Pulaski (B) Sea Level Sensor
+368,-3.7311335139999997,2020-02-29 17:34:59.443000-05:00,Fort Pulaski (B) Sea Level Sensor
+369,-2.8222965139999996,2020-03-01 05:54:51.978000-05:00,Fort Pulaski (B) Sea Level Sensor
+370,-3.1864875140000013,2020-03-01 18:04:42.800000-05:00,Fort Pulaski (B) Sea Level Sensor
+371,-2.3071795139999995,2020-03-02 07:00:23.946000-05:00,Fort Pulaski (B) Sea Level Sensor
+372,-2.7665195140000005,2020-03-02 19:10:15.915000-05:00,Fort Pulaski (B) Sea Level Sensor
+373,-2.805891513999999,2020-03-03 07:45:34.942000-05:00,Fort Pulaski (B) Sea Level Sensor
+374,-2.966660514000001,2020-03-03 19:45:07.694000-05:00,Fort Pulaski (B) Sea Level Sensor
+375,-2.8879165140000005,2020-03-04 09:01:17.330000-05:00,Fort Pulaski (B) Sea Level Sensor
+376,-2.284212514,2020-03-04 21:36:32.711000-05:00,Fort Pulaski (B) Sea Level Sensor
+377,-2.172658514,2020-03-05 10:32:13.173000-05:00,Fort Pulaski (B) Sea Level Sensor
+378,-2.4941965140000004,2020-03-05 22:26:41.201000-05:00,Fort Pulaski (B) Sea Level Sensor
+379,-3.7639435139999993,2020-03-06 11:07:07.606000-05:00,Fort Pulaski (B) Sea Level Sensor
+380,-5.263360514,2020-03-06 23:22:00.495000-05:00,Fort Pulaski (B) Sea Level Sensor
+381,-4.059233514000001,2020-03-07 12:22:51.504000-05:00,Fort Pulaski (B) Sea Level Sensor
+382,-4.987756513999999,2020-03-08 00:27:29.595000-05:00,Fort Pulaski (B) Sea Level Sensor
+383,-4.446391514,2020-03-08 14:23:11.832000-04:00,Fort Pulaski (B) Sea Level Sensor
+384,-5.0861865139999995,2020-03-09 02:27:51.750000-04:00,Fort Pulaski (B) Sea Level Sensor
+385,-5.0304095140000005,2020-03-09 14:47:51.002000-04:00,Fort Pulaski (B) Sea Level Sensor
+386,-5.378195514,2020-03-10 03:28:13.934000-04:00,Fort Pulaski (B) Sea Level Sensor
+387,-5.256798513999998,2020-03-10 15:43:10.017000-04:00,Fort Pulaski (B) Sea Level Sensor
+388,-5.5816175139999995,2020-03-11 04:18:26.302000-04:00,Fort Pulaski (B) Sea Level Sensor
+389,-5.296170514000002,2020-03-11 16:38:26.851000-04:00,Fort Pulaski (B) Sea Level Sensor
+390,-5.296170514000002,2020-03-12 05:08:38.158000-04:00,Fort Pulaski (B) Sea Level Sensor
+391,-5.187897514000001,2020-03-12 17:28:39.266000-04:00,Fort Pulaski (B) Sea Level Sensor
+392,-4.807301514000001,2020-03-13 06:14:16.084000-04:00,Fort Pulaski (B) Sea Level Sensor
+393,-4.951665514,2020-03-13 18:13:55.922000-04:00,Fort Pulaski (B) Sea Level Sensor
+394,-4.7777725140000005,2020-03-14 06:54:21.257000-04:00,Fort Pulaski (B) Sea Level Sensor
+395,-4.072357514,2020-03-14 19:04:15.283000-04:00,Fort Pulaski (B) Sea Level Sensor
+396,-3.4489675139999996,2020-03-15 07:54:54.418000-04:00,Fort Pulaski (B) Sea Level Sensor
+397,-3.3177275139999978,2020-03-15 19:54:35.324000-04:00,Fort Pulaski (B) Sea Level Sensor
+398,-2.2054685139999997,2020-03-16 08:55:22.862000-04:00,Fort Pulaski (B) Sea Level Sensor
+399,-2.425295514,2020-03-16 20:39:40.606000-04:00,Fort Pulaski (B) Sea Level Sensor
+400,-2.779643514,2020-03-17 09:40:32.982000-04:00,Fort Pulaski (B) Sea Level Sensor
+401,-2.395766514,2020-03-17 22:20:53.756000-04:00,Fort Pulaski (B) Sea Level Sensor
+402,-2.8222965139999996,2020-03-18 11:16:43.212000-04:00,Fort Pulaski (B) Sea Level Sensor
+403,-2.572940514000001,2020-03-18 23:06:10.597000-04:00,Fort Pulaski (B) Sea Level Sensor
+404,-3.163520514,2020-03-19 12:07:05.625000-04:00,Fort Pulaski (B) Sea Level Sensor
+405,-3.0946195139999997,2020-03-20 00:06:36.995000-04:00,Fort Pulaski (B) Sea Level Sensor
+406,-3.6523895139999993,2020-03-20 12:52:12.292000-04:00,Fort Pulaski (B) Sea Level Sensor
+407,-3.826282513999999,2020-03-21 00:56:50.843000-04:00,Fort Pulaski (B) Sea Level Sensor
+408,-4.452953513999999,2020-03-21 13:32:10.100000-04:00,Fort Pulaski (B) Sea Level Sensor
+409,-4.167506514000001,2020-03-22 01:36:43.598000-04:00,Fort Pulaski (B) Sea Level Sensor
+410,-2.664808513999999,2020-03-22 14:32:30.135000-04:00,Fort Pulaski (B) Sea Level Sensor
+411,0.2684054860000007,2020-03-22 23:53:54.441000-04:00,Fort Pulaski (B) Sea Level Sensor
+412,100.0,2020-02-23 12:00:00-05:00,fake
+413,-3.760026,2020-02-24 02:33:00.913000-05:00,Landings Harbor Marina Sea Level Sensor
+414,-3.9470430000000007,2020-02-24 15:29:16.892000-05:00,Landings Harbor Marina Sea Level Sensor
+415,-3.3728679999999986,2020-02-25 03:36:52.390000-05:00,Landings Harbor Marina Sea Level Sensor
+416,-4.035630000000001,2020-02-25 15:26:33.417000-05:00,Landings Harbor Marina Sea Level Sensor
+417,-3.819084,2020-02-26 03:52:18.427000-05:00,Landings Harbor Marina Sea Level Sensor
+418,-4.166869999999999,2020-02-26 16:24:21.918000-05:00,Landings Harbor Marina Sea Level Sensor
+419,-4.567152000000002,2020-02-27 04:01:58.761000-05:00,Landings Harbor Marina Sea Level Sensor
+420,-4.13406,2020-02-27 17:04:25.073000-05:00,Landings Harbor Marina Sea Level Sensor
+421,-3.5500419999999995,2020-02-28 04:42:02.926000-05:00,Landings Harbor Marina Sea Level Sensor
+422,-3.8518940000000015,2020-02-28 17:13:05.620000-05:00,Landings Harbor Marina Sea Level Sensor
+423,-4.094688000000001,2020-02-29 05:08:35.866000-05:00,Landings Harbor Marina Sea Level Sensor
+424,-4.179994000000001,2020-02-29 17:22:35.212000-05:00,Landings Harbor Marina Sea Level Sensor
+425,-3.1005450000000003,2020-03-01 06:00:24.679000-05:00,Landings Harbor Marina Sea Level Sensor
+426,-3.490984000000001,2020-03-01 18:01:59.491000-05:00,Landings Harbor Marina Sea Level Sensor
+427,-2.536213000000002,2020-03-02 06:34:10.875000-05:00,Landings Harbor Marina Sea Level Sensor
+428,-3.1038260000000015,2020-03-02 18:53:57.408000-05:00,Landings Harbor Marina Sea Level Sensor
+429,-2.8807180000000017,2020-03-03 07:32:00.444000-05:00,Landings Harbor Marina Sea Level Sensor
+430,-3.2645950000000017,2020-03-03 19:52:00.494000-05:00,Landings Harbor Marina Sea Level Sensor
+431,-3.087421000000001,2020-03-04 09:25:29.425000-05:00,Landings Harbor Marina Sea Level Sensor
+432,-2.4673119999999997,2020-03-04 21:39:20.349000-05:00,Landings Harbor Marina Sea Level Sensor
+433,-2.234361,2020-03-05 09:53:03.353000-05:00,Landings Harbor Marina Sea Level Sensor
+434,-2.6740150000000007,2020-03-05 22:43:17.038000-05:00,Landings Harbor Marina Sea Level Sensor
+435,-4.019224999999999,2020-03-06 11:15:08.819000-05:00,Landings Harbor Marina Sea Level Sensor
+436,-5.512079999999999,2020-03-06 23:16:52.743000-05:00,Landings Harbor Marina Sea Level Sensor
+437,-4.0651589999999995,2020-03-07 12:13:00.003000-05:00,Landings Harbor Marina Sea Level Sensor
+438,-5.364435,2020-03-08 00:26:45.079000-05:00,Landings Harbor Marina Sea Level Sensor
+439,-4.685268000000001,2020-03-08 14:17:05.589000-04:00,Landings Harbor Marina Sea Level Sensor
+440,-5.387402000000002,2020-03-09 02:30:59.062000-04:00,Landings Harbor Marina Sea Level Sensor
+441,-5.364435,2020-03-09 15:08:57.587000-04:00,Landings Harbor Marina Sea Level Sensor
+442,-5.820494,2020-03-10 03:34:43.013000-04:00,Landings Harbor Marina Sea Level Sensor
+443,-5.6564440000000005,2020-03-10 15:54:51.462000-04:00,Landings Harbor Marina Sea Level Sensor
+444,-6.033759000000002,2020-03-11 04:38:57.728000-04:00,Landings Harbor Marina Sea Level Sensor
+445,-5.735188000000001,2020-03-11 16:46:51.674000-04:00,Landings Harbor Marina Sea Level Sensor
+446,-5.7417500000000015,2020-03-12 05:12:40.417000-04:00,Landings Harbor Marina Sea Level Sensor
+447,-5.603948000000001,2020-03-12 17:44:33.028000-04:00,Landings Harbor Marina Sea Level Sensor
+448,-5.239757000000003,2020-03-13 06:04:26-04:00,Landings Harbor Marina Sea Level Sensor
+449,-5.331625000000001,2020-03-13 18:30:20.714000-04:00,Landings Harbor Marina Sea Level Sensor
+450,-5.082269000000002,2020-03-14 07:08:24.343000-04:00,Landings Harbor Marina Sea Level Sensor
+451,-4.370292000000001,2020-03-14 18:51:48.624000-04:00,Landings Harbor Marina Sea Level Sensor
+452,-3.773150000000001,2020-03-15 07:54:02.582000-04:00,Landings Harbor Marina Sea Level Sensor
+453,-3.7108110000000014,2020-03-15 19:43:32.685000-04:00,Landings Harbor Marina Sea Level Sensor
+454,-2.2967000000000013,2020-03-16 09:03:51.596000-04:00,Landings Harbor Marina Sea Level Sensor
+455,-2.5985519999999998,2020-03-16 21:05:49.094000-04:00,Landings Harbor Marina Sea Level Sensor
+456,-2.883999000000001,2020-03-17 09:55:58.760000-04:00,Landings Harbor Marina Sea Level Sensor
+457,-2.5887090000000015,2020-03-17 21:51:36.590000-04:00,Landings Harbor Marina Sea Level Sensor
+458,-2.992272,2020-03-18 11:06:16.363000-04:00,Landings Harbor Marina Sea Level Sensor
+459,-2.696982,2020-03-18 23:08:02.206000-04:00,Landings Harbor Marina Sea Level Sensor
+460,-3.415521000000002,2020-03-19 11:52:05.283000-04:00,Landings Harbor Marina Sea Level Sensor
+461,-3.4056780000000018,2020-03-20 00:05:42.430000-04:00,Landings Harbor Marina Sea Level Sensor
+462,-3.8978280000000005,2020-03-20 12:56:08.945000-04:00,Landings Harbor Marina Sea Level Sensor
+463,-3.920795000000002,2020-03-21 00:27:22.428000-04:00,Landings Harbor Marina Sea Level Sensor
+464,-4.75745,2020-03-21 13:47:53.312000-04:00,Landings Harbor Marina Sea Level Sensor
+465,-4.517937,2020-03-22 01:37:16.850000-04:00,Landings Harbor Marina Sea Level Sensor
+466,-2.8150980000000008,2020-03-22 14:27:17.855000-04:00,Landings Harbor Marina Sea Level Sensor
+467,0.5085549999999994,2020-03-22 23:51:13.238000-04:00,Landings Harbor Marina Sea Level Sensor
+468,100.0,2020-02-23 12:00:00-05:00,fake
+469,-3.2974049999999977,2020-02-24 02:47:37.358000-05:00,SKIO Dock Sea Level Sensor
+470,-3.402396999999999,2020-02-24 15:23:25.201000-05:00,SKIO Dock Sea Level Sensor
+471,-2.9725860000000015,2020-02-25 03:23:27.647000-05:00,SKIO Dock Sea Level Sensor
+472,-3.6058190000000003,2020-02-25 15:59:11.541000-05:00,SKIO Dock Sea Level Sensor
+473,-3.284281,2020-02-26 03:48:51.700000-05:00,SKIO Dock Sea Level Sensor
+474,-3.815802999999999,2020-02-26 16:19:32.724000-05:00,SKIO Dock Sea Level Sensor
+475,-4.252176,2020-02-27 04:09:18.852000-05:00,SKIO Dock Sea Level Sensor
+476,-3.704249000000001,2020-02-27 16:50:08.636000-05:00,SKIO Dock Sea Level Sensor
+477,-2.9955529999999992,2020-02-28 04:34:49.426000-05:00,SKIO Dock Sea Level Sensor
+478,-3.238346999999999,2020-02-28 17:20:47.810000-05:00,SKIO Dock Sea Level Sensor
+479,-3.664876999999999,2020-02-29 05:20:41.655000-05:00,SKIO Dock Sea Level Sensor
+480,-3.6714390000000012,2020-02-29 17:00:24.630000-05:00,SKIO Dock Sea Level Sensor
+481,-2.555899,2020-03-01 05:56:29.613000-05:00,SKIO Dock Sea Level Sensor
+482,-2.9528999999999996,2020-03-01 18:06:39.038000-05:00,SKIO Dock Sea Level Sensor
+483,-1.9981290000000005,2020-03-02 06:42:19.973000-05:00,SKIO Dock Sea Level Sensor
+484,-2.4673119999999997,2020-03-02 18:57:39.975000-05:00,SKIO Dock Sea Level Sensor
+485,-2.2737329999999982,2020-03-03 07:53:50.147000-05:00,SKIO Dock Sea Level Sensor
+486,-2.759321,2020-03-03 20:14:19.284000-05:00,SKIO Dock Sea Level Sensor
+487,-2.52637,2020-03-04 09:56:27.287000-05:00,SKIO Dock Sea Level Sensor
+488,,,SKIO Dock Sea Level Sensor
+489,-1.3025570000000002,2020-03-05 11:33:18.507000-05:00,SKIO Dock Sea Level Sensor
+490,,,SKIO Dock Sea Level Sensor
+491,-3.6058190000000003,2020-03-06 11:23:04.757000-05:00,SKIO Dock Sea Level Sensor
+492,-5.033053999999998,2020-03-06 23:28:07.739000-05:00,SKIO Dock Sea Level Sensor
+493,-3.543479999999999,2020-03-07 12:19:08.333000-05:00,SKIO Dock Sea Level Sensor
+494,-4.934624000000001,2020-03-08 00:49:47.090000-05:00,SKIO Dock Sea Level Sensor
+495,-4.189836999999999,2020-03-08 14:15:23.551000-04:00,SKIO Dock Sea Level Sensor
+496,-4.987120000000001,2020-03-09 02:51:05.397000-04:00,SKIO Dock Sea Level Sensor
+497,-4.905094999999999,2020-03-09 15:16:37.020000-04:00,SKIO Dock Sea Level Sensor
+498,-1.5617560000000008,2020-03-10 01:29:18.828000-04:00,SKIO Dock Sea Level Sensor
+499,-3.7272160000000003,2020-02-24 03:05:34.761000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+500,-3.7764310000000023,2020-02-24 15:51:49.329000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+501,-3.389273000000001,2020-02-25 03:37:07.051000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+502,-3.914233000000001,2020-02-25 16:33:31.108000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+503,-3.7764310000000023,2020-02-26 04:03:37.679000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+504,-4.075002,2020-02-26 16:34:38.203000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+505,-4.8132269999999995,2020-02-27 04:35:07.981000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+506,-4.117655000000001,2020-02-27 17:11:16.142000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+507,-3.5730090000000008,2020-02-28 05:01:37.720000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+508,-3.6845630000000007,2020-02-28 17:32:41.920000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+509,-4.163589,2020-02-29 05:33:14.911000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+510,-4.0290680000000005,2020-02-29 17:23:42.258000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+511,-3.0578920000000007,2020-03-01 06:25:07.581000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+512,-3.415521,2020-03-01 18:30:50.228000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+513,-2.450907000000001,2020-03-02 06:46:42.571000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+514,-2.9430569999999996,2020-03-02 19:17:46.935000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+515,-2.7265110000000004,2020-03-03 07:53:53.091000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+516,-3.1956939999999996,2020-03-03 20:19:50.187000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+517,-3.005396000000001,2020-03-04 09:56:47.343000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+518,-2.313105,2020-03-04 21:57:21.657000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+519,-2.3163859999999996,2020-03-05 10:08:03.316000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+520,-2.6740150000000007,2020-03-05 22:49:13.023000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+521,-3.950324000000002,2020-03-06 11:40:33.686000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+522,-5.531765999999999,2020-03-06 23:56:19.776000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+523,-3.950324000000002,2020-03-07 12:42:36.645000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+524,-5.236475999999998,2020-03-08 01:13:35.642000-05:00,Hunt Drive on Burnside Island Sea Level Sensor
+525,-4.521217999999999,2020-03-08 14:39:37.725000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+526,-5.187261000000001,2020-03-09 03:20:47.061000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+527,-4.980558,2020-03-09 15:51:51.430000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+528,-5.449741000000001,2020-03-10 04:17:47.966000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+529,-5.252881,2020-03-10 16:38:41.370000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+530,-5.626915000000002,2020-03-11 05:14:41.730000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+531,-5.344749000000002,2020-03-11 17:20:20.906000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+532,-5.351311000000001,2020-03-12 06:01:28.226000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+533,-5.2725670000000004,2020-03-12 18:17:17.092000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+534,-4.980558,2020-03-13 06:53:20.265000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+535,-5.072425999999998,2020-03-13 18:59:00.121000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+536,-4.957590999999999,2020-03-14 07:40:07.590000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+537,-4.350606000000001,2020-03-14 19:35:36.285000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+538,-3.7370590000000004,2020-03-15 08:21:49.691000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+539,-3.638629,2020-03-15 20:07:10.129000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+540,-2.2770139999999994,2020-03-16 09:18:44.248000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+541,-2.5887090000000015,2020-03-16 21:14:15.604000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+542,-2.9266520000000007,2020-03-17 10:20:50.537000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+543,-2.4345019999999984,2020-03-17 21:56:02.187000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+544,-2.966023999999999,2020-03-18 11:27:59.721000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+545,-2.6707339999999995,2020-03-18 23:43:46.745000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+546,-3.399116000000001,2020-03-19 12:04:40.875000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+547,-3.3630250000000004,2020-03-20 00:30:32.201000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+548,-3.8158030000000007,2020-03-20 13:11:41.330000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+549,-4.022506,2020-03-21 01:22:19.522000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+550,-4.790259999999998,2020-03-21 14:08:35.547000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+551,-4.521217999999999,2020-03-22 01:48:45.860000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+552,-2.834784000000001,2020-03-22 14:24:51.320000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+553,1.2238129999999998,2020-03-22 23:53:10.819000-04:00,Hunt Drive on Burnside Island Sea Level Sensor
+554,100.0,2020-02-23 12:00:00-05:00,fake
+555,-8.00564,2020-02-24 02:43:57.314000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+556,-8.038450000000001,2020-02-24 15:19:03.731000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+557,-7.867838000000001,2020-02-25 03:13:33.069000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+558,-8.264839,2020-02-25 15:58:46.630000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+559,-8.094227,2020-02-26 03:58:23.999000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+560,-8.419046,2020-02-26 16:28:29.786000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+561,-9.085089000000002,2020-02-27 03:57:36.392000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+562,-8.491228000000001,2020-02-27 17:03:02.429000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+563,-7.936739000000001,2020-02-28 04:52:30.150000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+564,-8.143442000000002,2020-02-28 17:12:26.633000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+565,-8.182814,2020-02-29 05:32:11.042000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+566,-8.304211,2020-02-29 17:36:49.868000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+567,-7.477399,2020-03-01 06:42:12.458000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+568,-7.730036,2020-03-01 18:26:40.391000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+569,-6.959001000000001,2020-03-02 07:21:59.251000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+570,-7.319910999999999,2020-03-02 19:16:33.489000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+571,-7.375688000000002,2020-03-03 08:16:56.365000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+572,-7.667697,2020-03-03 20:16:30.728000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+573,-7.569267,2020-03-04 09:42:20.995000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+574,-6.899943,2020-03-04 21:31:44.786000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+575,-6.939315000000001,2020-03-05 10:37:16.440000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+576,-7.070555000000001,2020-03-05 22:46:54.883000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+577,-8.186095000000002,2020-03-06 11:27:03.562000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+578,-9.423032000000001,2020-03-06 23:11:21.349000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+579,-8.241871999999999,2020-03-07 12:26:58.983000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+580,-9.501776,2020-03-08 00:46:42.056000-05:00,Sapelo Island Ferry Dock Sea Level Sensor
+581,-8.786518000000001,2020-03-08 14:21:55.037000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+582,-9.590363,2020-03-09 02:53:35.006000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+583,-9.478809000000002,2020-03-09 15:23:41.781000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+584,-10.03986,2020-03-10 03:48:34.491000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+585,-9.751132000000002,2020-03-10 16:08:27.108000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+586,-10.13829,2020-03-11 04:48:28.217000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+587,-9.836438000000001,2020-03-11 16:58:14.203000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+588,-9.810190000000002,2020-03-12 05:33:13.635000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+589,-9.738008,2020-03-12 17:42:57.723000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+590,-9.298354,2020-03-13 06:28:08.538000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+591,-9.593644000000001,2020-03-13 18:22:42.476000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+592,-9.275387,2020-03-14 07:18:01.284000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+593,-8.72746,2020-03-14 19:12:36.341000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+594,-7.871119,2020-03-15 08:13:02.360000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+595,-7.775970000000001,2020-03-15 19:32:04.455000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+596,-6.279834000000001,2020-03-16 09:53:26.041000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+597,-6.745736000000001,2020-03-16 21:17:32.894000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+598,-7.1722660000000005,2020-03-17 10:31:33.608000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+599,-6.942596,2020-03-17 22:36:31.189000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+600,-7.336316000000002,2020-03-18 11:31:54.741000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+601,-7.218200000000001,2020-03-18 23:41:37.049000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+602,-7.648011,2020-03-19 12:11:36.867000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+603,-7.618482,2020-03-20 00:11:10.265000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+604,-8.212343,2020-03-20 12:51:15.118000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+605,-8.382954999999999,2020-03-21 01:16:04.036000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+606,-9.176957,2020-03-21 13:51:07.168000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+607,-8.753708000000001,2020-03-22 01:45:31.956000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+608,-7.2280429999999996,2020-03-22 14:25:39.434000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+609,-3.704249000000001,2020-03-22 23:53:09.183000-04:00,Sapelo Island Ferry Dock Sea Level Sensor
+610,100.0,2020-02-23 12:00:00-05:00,fake
+611,-4.173432000000002,2020-02-24 02:49:55.805000-05:00,Savannah State Sea Level Sensor
+612,-4.284986,2020-02-24 15:22:11.042000-05:00,Savannah State Sea Level Sensor
+613,2.1556170000000012,2020-02-24 23:45:37.730000-05:00,Savannah State Sea Level Sensor
+614,-4.435911999999998,2020-02-25 16:20:30.710000-05:00,Savannah State Sea Level Sensor
+615,-4.120936,2020-02-26 03:52:00.029000-05:00,Savannah State Sea Level Sensor
+616,-4.704954000000001,2020-02-26 16:18:06.620000-05:00,Savannah State Sea Level Sensor
+617,-5.141327,2020-02-27 04:19:53.086000-05:00,Savannah State Sea Level Sensor
+618,-4.606524,2020-02-27 16:46:02.899000-05:00,Savannah State Sea Level Sensor
+619,-3.9240759999999995,2020-02-28 04:47:47.726000-05:00,Savannah State Sea Level Sensor
+620,-4.1865559999999995,2020-02-28 17:07:58.273000-05:00,Savannah State Sea Level Sensor
+621,-4.593399999999999,2020-02-29 05:27:56.202000-05:00,Savannah State Sea Level Sensor
+622,-4.399820999999999,2020-02-29 17:05:38.836000-05:00,Savannah State Sea Level Sensor
+623,-3.3630249999999986,2020-03-01 06:07:59.148000-05:00,Savannah State Sea Level Sensor
+624,-3.8059600000000007,2020-03-01 18:09:57.186000-05:00,Savannah State Sea Level Sensor
+625,-2.824940999999999,2020-03-02 07:06:20.363000-05:00,Savannah State Sea Level Sensor
+626,-3.244909,2020-03-02 18:50:01.818000-05:00,Savannah State Sea Level Sensor
+627,-3.0447679999999995,2020-03-03 07:28:16.013000-05:00,Savannah State Sea Level Sensor
+628,-3.632067000000001,2020-03-03 20:06:32.485000-05:00,Savannah State Sea Level Sensor
+629,-3.3433390000000003,2020-03-04 09:57:36.315000-05:00,Savannah State Sea Level Sensor
+630,-2.5887089999999997,2020-03-04 22:29:48.690000-05:00,Savannah State Sea Level Sensor
+631,-2.5394939999999995,2020-03-05 10:01:22.743000-05:00,Savannah State Sea Level Sensor
+632,-3.0907020000000003,2020-03-05 22:45:40.951000-05:00,Savannah State Sea Level Sensor
+633,-4.386696999999998,2020-03-06 11:42:09.976000-05:00,Savannah State Sea Level Sensor
+634,-6.105940999999998,2020-03-06 23:50:03.550000-05:00,Savannah State Sea Level Sensor
+635,-4.288266999999998,2020-03-07 11:57:56.895000-05:00,Savannah State Sea Level Sensor
+636,-5.761436,2020-03-08 01:00:28.530000-05:00,Savannah State Sea Level Sensor
+637,-5.075706999999998,2020-03-08 14:20:36.363000-04:00,Savannah State Sea Level Sensor
+638,-5.892676000000002,2020-03-09 02:52:44.884000-04:00,Savannah State Sea Level Sensor
+639,-5.994387,2020-03-09 15:25:01.770000-04:00,Savannah State Sea Level Sensor
+640,-6.342172999999999,2020-03-10 03:51:04.705000-04:00,Savannah State Sea Level Sensor
+641,-6.174841999999998,2020-03-10 16:17:16.258000-04:00,Savannah State Sea Level Sensor
+642,-6.555438000000002,2020-03-11 04:43:16.830000-04:00,Savannah State Sea Level Sensor
+643,-3.3564629999999998,2020-03-11 18:40:34.096000-04:00,Savannah State Sea Level Sensor
+644,0.39043900000000065,2020-03-12 08:43:53.833000-04:00,Savannah State Sea Level Sensor
+645,-5.5777,2020-03-12 17:13:36.840000-04:00,Savannah State Sea Level Sensor
+646,-5.646601,2020-03-13 06:46:54.258000-04:00,Savannah State Sea Level Sensor
+647,-5.856584999999999,2020-03-13 18:36:49.175000-04:00,Savannah State Sea Level Sensor
+648,-5.515360999999999,2020-03-14 07:15:04.853000-04:00,Savannah State Sea Level Sensor
+649,-4.816507999999999,2020-03-14 19:11:05.825000-04:00,Savannah State Sea Level Sensor
+650,-4.239052000000001,2020-03-15 08:07:35.401000-04:00,Savannah State Sea Level Sensor
+651,-4.10125,2020-03-15 19:45:33.135000-04:00,Savannah State Sea Level Sensor
+652,-2.677296,2020-03-16 08:48:33.825000-04:00,Savannah State Sea Level Sensor
+653,-2.929933,2020-03-16 20:56:39.935000-04:00,Savannah State Sea Level Sensor
+654,-3.3433390000000003,2020-03-17 10:17:31.555000-04:00,Savannah State Sea Level Sensor
+655,-2.808536,2020-03-17 21:43:05.484000-04:00,Savannah State Sea Level Sensor
+656,-3.218660999999999,2020-03-18 11:34:28.906000-04:00,Savannah State Sea Level Sensor
+657,-3.0053959999999975,2020-03-18 23:31:48.920000-04:00,Savannah State Sea Level Sensor
+658,-3.7993979999999983,2020-03-19 12:04:19.493000-04:00,Savannah State Sea Level Sensor
+659,-3.750183,2020-03-20 00:24:34.743000-04:00,Savannah State Sea Level Sensor
+660,-4.193117999999998,2020-03-20 13:03:21.205000-04:00,Savannah State Sea Level Sensor
+661,-4.373573,2020-03-21 00:59:39.644000-04:00,Savannah State Sea Level Sensor
+662,-5.1150790000000015,2020-03-21 13:56:17.617000-04:00,Savannah State Sea Level Sensor
+663,-4.924780999999999,2020-03-22 01:40:04.973000-04:00,Savannah State Sea Level Sensor
+664,-3.074296999999998,2020-03-22 14:24:36.949000-04:00,Savannah State Sea Level Sensor
+665,2.0342200000000012,2020-03-22 23:30:36.761000-04:00,Savannah State Sea Level Sensor
+666,100.0,2020-02-23 12:00:00-05:00,fake
+667,-4.163589,2020-02-24 03:07:44.714000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+668,-4.186556000000001,2020-02-24 15:44:28.653000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+669,-3.809241000000002,2020-02-25 03:50:41.048000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+670,-4.357168,2020-02-25 16:27:21.418000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+671,-4.202961000000002,2020-02-26 04:18:17.984000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+672,-4.563870999999999,2020-02-26 16:34:37.585000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+673,-5.2824100000000005,2020-02-27 04:35:40.574000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+674,-4.609805,2020-02-27 16:57:10.140000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+675,-4.022506,2020-02-28 05:03:17.181000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+676,-4.163589,2020-02-28 17:34:56.607000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+677,-4.649177000000002,2020-02-29 05:30:52.604000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+678,-4.485127,2020-02-29 17:26:56.105000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+679,-3.471298000000001,2020-03-01 06:28:54.796000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+680,-3.8387700000000002,2020-03-01 18:19:53.721000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+681,-2.8774370000000005,2020-03-02 07:01:35.726000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+682,-3.3630250000000004,2020-03-02 19:28:07.357000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+683,-3.126793000000001,2020-03-03 08:04:45.181000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+684,-3.6255050000000004,2020-03-03 20:05:58.724000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+685,-3.4023970000000006,2020-03-04 10:08:59.529000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+686,-2.762602000000001,2020-03-04 22:15:09.653000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+687,-2.7855690000000006,2020-03-05 10:21:16.731000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+688,-3.136636000000001,2020-03-05 22:47:49.267000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+689,-4.380134999999999,2020-03-06 11:54:59.961000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+690,-6.069850000000001,2020-03-07 00:06:12.214000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+691,-4.340763000000001,2020-03-07 12:47:59.517000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+692,-5.7056590000000025,2020-03-08 01:19:30.043000-05:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+693,-4.993682,2020-03-08 14:51:09.564000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+694,-5.669568000000002,2020-03-09 03:27:43.528000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+695,-5.518642000000002,2020-03-09 15:49:14.730000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+696,-5.9582960000000025,2020-03-10 04:20:48.495000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+697,-5.771279,2020-03-10 16:37:11.991000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+698,-6.115784000000001,2020-03-11 05:18:50.397000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+699,-5.833618000000001,2020-03-11 17:30:09.160000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+700,-5.856585000000001,2020-03-12 06:06:45.562000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+701,-5.745031000000001,2020-03-12 18:18:03.892000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+702,-5.479270000000001,2020-03-13 07:04:49.325000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+703,-5.5777,2020-03-13 19:06:04.382000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+704,-5.410368999999999,2020-03-14 07:42:41.449000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+705,-4.796822000000002,2020-03-14 19:33:38.735000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+706,-4.166870000000001,2020-03-15 08:25:29.875000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+707,-4.061878,2020-03-15 19:51:08.029000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+708,-2.6805770000000013,2020-03-16 09:03:16.847000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+709,-3.0021150000000016,2020-03-16 20:59:26.625000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+710,-3.389273000000001,2020-03-17 10:21:50.033000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+711,-2.844627000000001,2020-03-17 21:27:02.884000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+712,-3.340058000000001,2020-03-18 11:40:11.549000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+713,-3.097264000000001,2020-03-18 23:46:18.942000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+714,-3.799398,2020-03-19 12:07:43.504000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+715,-3.792836000000001,2020-03-20 00:24:00.461000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+716,-4.239052000000001,2020-03-20 13:13:59.550000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+717,-4.442473999999999,2020-03-21 01:30:17.443000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+718,-5.197104000000001,2020-03-21 14:06:58.951000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+719,-4.911657000000002,2020-03-22 01:42:36.167000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+720,-3.2613140000000005,2020-03-22 14:24:16.922000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+721,1.0958539999999992,2020-03-22 23:53:06.164000-04:00,Diamond Causeway at Shipyard Creek Sea Level Sensor
+722,100.0,2020-02-23 12:00:00-05:00,fake
+723,-2.017814999999999,2020-02-24 04:47:59.823000-05:00,Rose Dhu Island Sea Level Sensor
+724,-2.0703110000000002,2020-02-24 17:26:14.007000-05:00,Rose Dhu Island Sea Level Sensor
+725,-1.7979879999999984,2020-02-25 04:01:23.503000-05:00,Rose Dhu Island Sea Level Sensor
+726,-1.9915669999999999,2020-02-25 17:20:00.881000-05:00,Rose Dhu Island Sea Level Sensor
+727,-2.0145339999999994,2020-02-26 05:47:33.520000-05:00,Rose Dhu Island Sea Level Sensor
+728,-1.9751619999999992,2020-02-26 18:40:50.737000-05:00,Rose Dhu Island Sea Level Sensor
+729,-2.040782,2020-02-27 07:03:13.954000-05:00,Rose Dhu Island Sea Level Sensor
+730,-2.2113940000000003,2020-02-27 17:58:43.538000-05:00,Rose Dhu Island Sea Level Sensor
+731,-2.0342199999999995,2020-02-28 07:03:49.190000-05:00,Rose Dhu Island Sea Level Sensor
+732,-2.1359309999999994,2020-02-28 17:44:03.359000-05:00,Rose Dhu Island Sea Level Sensor
+733,-2.0440629999999995,2020-02-29 06:52:30.275000-05:00,Rose Dhu Island Sea Level Sensor
+734,-2.1818649999999984,2020-02-29 17:50:39.457000-05:00,Rose Dhu Island Sea Level Sensor
+735,-2.0375010000000007,2020-03-01 06:50:30.289000-05:00,Rose Dhu Island Sea Level Sensor
+736,-2.1260879999999993,2020-03-01 18:06:34.848000-05:00,Rose Dhu Island Sea Level Sensor
+737,-2.0243769999999994,2020-03-02 08:14:37.317000-05:00,Rose Dhu Island Sea Level Sensor
+738,-2.067029999999999,2020-03-02 19:54:24.598000-05:00,Rose Dhu Island Sea Level Sensor
+739,-2.0539059999999996,2020-03-03 10:29:54.151000-05:00,Rose Dhu Island Sea Level Sensor
+740,-2.0834349999999997,2020-03-03 21:09:53.536000-05:00,Rose Dhu Island Sea Level Sensor
+741,-1.9882860000000004,2020-03-04 09:06:42.410000-05:00,Rose Dhu Island Sea Level Sensor
+742,-1.778302,2020-03-04 21:29:30.817000-05:00,Rose Dhu Island Sea Level Sensor
+743,-1.8504839999999998,2020-03-05 11:26:39.878000-05:00,Rose Dhu Island Sea Level Sensor
+744,-1.9062610000000006,2020-03-06 00:37:17.124000-05:00,Rose Dhu Island Sea Level Sensor
+745,-2.0375010000000007,2020-03-06 14:06:15.500000-05:00,Rose Dhu Island Sea Level Sensor
+746,-2.0243769999999994,2020-03-07 02:06:02.514000-05:00,Rose Dhu Island Sea Level Sensor
+747,-2.1588980000000006,2020-03-07 15:01:17.134000-05:00,Rose Dhu Island Sea Level Sensor
+748,-2.0342199999999995,2020-03-08 04:05:09.981000-04:00,Rose Dhu Island Sea Level Sensor
+749,-2.152336,2020-03-08 16:48:11.449000-04:00,Rose Dhu Island Sea Level Sensor
+750,-2.021096,2020-03-09 05:05:16.988000-04:00,Rose Dhu Island Sea Level Sensor
+751,-2.1359309999999994,2020-03-09 17:42:31.222000-04:00,Rose Dhu Island Sea Level Sensor
+752,-2.021096,2020-03-10 06:15:05.201000-04:00,Rose Dhu Island Sea Level Sensor
+753,-2.0539059999999996,2020-03-10 18:12:14.568000-04:00,Rose Dhu Island Sea Level Sensor
+754,-2.0243769999999994,2020-03-11 07:10:29.373000-04:00,Rose Dhu Island Sea Level Sensor
+755,-2.040782,2020-03-11 19:19:35.201000-04:00,Rose Dhu Island Sea Level Sensor
+756,-2.0046909999999993,2020-03-12 07:54:47.169000-04:00,Rose Dhu Island Sea Level Sensor
+757,-2.0735919999999997,2020-03-12 18:49:12.757000-04:00,Rose Dhu Island Sea Level Sensor
+758,-1.9882860000000004,2020-03-13 07:21:48.588000-04:00,Rose Dhu Island Sea Level Sensor
+759,-2.067029999999999,2020-03-13 19:23:25.403000-04:00,Rose Dhu Island Sea Level Sensor
+760,-2.00141,2020-03-14 07:57:12.601000-04:00,Rose Dhu Island Sea Level Sensor
+761,-2.076873000000001,2020-03-14 18:57:58.139000-04:00,Rose Dhu Island Sea Level Sensor
+762,-1.9948479999999993,2020-03-15 10:24:03.667000-04:00,Rose Dhu Island Sea Level Sensor
+763,-2.076873000000001,2020-03-15 20:53:45.020000-04:00,Rose Dhu Island Sea Level Sensor
+764,-2.017814999999999,2020-03-16 10:38:21.043000-04:00,Rose Dhu Island Sea Level Sensor
+765,-2.0145339999999994,2020-03-16 22:40:21.910000-04:00,Rose Dhu Island Sea Level Sensor
+766,-2.011253,2020-03-17 11:58:58.976000-04:00,Rose Dhu Island Sea Level Sensor
+767,-2.0375010000000007,2020-03-17 23:25:16.066000-04:00,Rose Dhu Island Sea Level Sensor
+768,-2.0834349999999997,2020-03-18 13:14:51.169000-04:00,Rose Dhu Island Sea Level Sensor
+769,-2.0375010000000007,2020-03-19 01:11:51.041000-04:00,Rose Dhu Island Sea Level Sensor
+770,-2.076873000000001,2020-03-19 14:10:05.418000-04:00,Rose Dhu Island Sea Level Sensor
+771,-2.0243769999999994,2020-03-20 01:56:41.497000-04:00,Rose Dhu Island Sea Level Sensor
+772,-2.0932779999999998,2020-03-20 15:30:47.596000-04:00,Rose Dhu Island Sea Level Sensor
+773,-2.0375010000000007,2020-03-21 02:56:51.003000-04:00,Rose Dhu Island Sea Level Sensor
+774,-2.1359309999999994,2020-03-21 16:22:22.140000-04:00,Rose Dhu Island Sea Level Sensor
+775,-2.0539059999999996,2020-03-22 04:27:04.439000-04:00,Rose Dhu Island Sea Level Sensor
+776,-2.0637489999999996,2020-03-22 15:39:18.134000-04:00,Rose Dhu Island Sea Level Sensor
+777,2.188427000000001,2020-03-22 23:47:41.299000-04:00,Rose Dhu Island Sea Level Sensor
+778,100.0,2020-02-23 12:00:00-05:00,fake
+779,-0.5380839999999996,2020-02-24 04:57:44.432000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+780,-0.6069849999999999,2020-02-24 17:39:35.284000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+781,-0.5577700000000014,2020-02-25 05:40:48.181000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+782,-0.6857290000000003,2020-02-25 18:12:27.773000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+783,-1.1089780000000005,2020-02-26 06:03:30.235000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+784,-1.0400770000000001,2020-02-26 18:35:11.912000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+785,-1.384582,2020-02-27 06:46:26.967000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+786,-1.8307979999999997,2020-02-27 18:32:31.884000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+787,-1.3616149999999987,2020-02-28 06:53:58.291000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+788,-1.788145,2020-02-28 19:05:32.192000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+789,-2.0342199999999995,2020-02-29 07:06:40.285000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+790,-2.4082540000000012,2020-02-29 18:47:37.230000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+791,-1.9390710000000002,2020-03-01 07:34:27.440000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+792,-2.3327910000000003,2020-03-01 19:51:03.003000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+793,-1.7258060000000004,2020-03-02 08:12:30.484000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+794,-2.237642000000001,2020-03-02 20:18:51.596000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+795,-2.0342199999999995,2020-03-03 09:15:59.688000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+796,-2.4476259999999996,2020-03-03 21:17:16.051000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+797,-2.1162449999999993,2020-03-04 10:49:51.861000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+798,-0.3116950000000003,2020-03-04 23:26:36.333000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+799,1.3025570000000002,2020-03-05 11:32:50.630000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+800,2.496841,2020-03-06 01:30:52.700000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+801,2.8282220000000002,2020-03-06 14:43:41.004000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+802,2.273732999999999,2020-03-07 02:55:04.525000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+803,2.030939,2020-03-07 14:56:35.947000-05:00,Hwy 21 at St Augustine Creek Level Sensor
+804,1.309118999999999,2020-03-08 04:33:23.738000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+805,1.2992760000000008,2020-03-08 17:15:38.927000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+806,0.6922910000000009,2020-03-09 05:26:55.597000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+807,0.8858699999999988,2020-03-09 18:03:41.485000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+808,0.42981100000000083,2020-03-10 06:25:04.214000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+809,0.4002820000000007,2020-03-10 18:46:51.172000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+810,0.15748799999999896,2020-03-11 07:23:35.087000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+811,-0.23623199999999933,2020-03-11 19:34:59.918000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+812,0.06890100000000032,2020-03-12 08:11:44.531000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+813,-0.541364999999999,2020-03-12 20:18:01.023000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+814,-0.1902980000000003,2020-03-13 09:04:59.381000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+815,-1.2927140000000001,2020-03-13 21:01:17.302000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+816,-1.115540000000001,2020-03-14 09:43:06.621000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+817,-1.5847230000000003,2020-03-14 21:29:03.964000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+818,-0.9482090000000003,2020-03-15 10:20:51.909000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+819,-1.6831530000000008,2020-03-15 21:46:23.163000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+820,-0.374034,2020-03-16 11:18:53.524000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+821,-1.2336559999999999,2020-03-16 22:59:44.847000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+822,-1.0958539999999992,2020-03-17 12:12:04.843000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+823,-1.8078310000000002,2020-03-17 23:22:25.901000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+824,-1.5092600000000012,2020-03-18 13:00:13.746000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+825,-2.014534000000001,2020-03-19 00:51:10.132000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+826,-1.8012690000000013,2020-03-19 13:58:27.950000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+827,-2.398411000000001,2020-03-20 01:54:30.455000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+828,-2.39513,2020-03-20 14:46:35.399000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+829,-2.7658830000000005,2020-03-21 02:42:40.233000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+830,-2.949619,2020-03-21 15:44:51.099000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+831,-2.9529000000000014,2020-03-22 03:40:58.783000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+832,-1.6404999999999994,2020-03-22 16:12:39.079000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+833,3.956886,2020-03-22 23:54:50.797000-04:00,Hwy 21 at St Augustine Creek Level Sensor
+834,100.0,2020-02-23 12:00:00-05:00,fake
+835,-4.13406,2020-02-24 02:54:13.871000-05:00,Solomon Bridge Sea Level Sensor
+836,-4.163588999999996,2020-02-24 15:10:33.349000-05:00,Solomon Bridge Sea Level Sensor
+837,-3.737058999999997,2020-02-25 03:22:26.981000-05:00,Solomon Bridge Sea Level Sensor
+838,-4.3899779999999975,2020-02-25 16:09:05.557000-05:00,Solomon Bridge Sea Level Sensor
+839,-4.097968999999997,2020-02-26 03:44:59.052000-05:00,Solomon Bridge Sea Level Sensor
+840,-4.6885489999999965,2020-02-26 16:21:25.990000-05:00,Solomon Bridge Sea Level Sensor
+841,-5.115078999999996,2020-02-27 04:22:21.679000-05:00,Solomon Bridge Sea Level Sensor
+842,-4.544185000000001,2020-02-27 16:33:26.385000-05:00,Solomon Bridge Sea Level Sensor
+843,-3.9273569999999953,2020-02-28 04:49:42.809000-05:00,Solomon Bridge Sea Level Sensor
+844,-4.1012499999999985,2020-02-28 17:16:02.268000-05:00,Solomon Bridge Sea Level Sensor
+845,-4.580276,2020-02-29 05:27:01.872000-05:00,Solomon Bridge Sea Level Sensor
+846,-4.311234000000001,2020-02-29 17:02:39.676000-05:00,Solomon Bridge Sea Level Sensor
+847,-3.385992,2020-03-01 06:14:43.016000-05:00,Solomon Bridge Sea Level Sensor
+848,-3.7665880000000005,2020-03-01 18:20:53.767000-05:00,Solomon Bridge Sea Level Sensor
+849,-2.8282219999999985,2020-03-02 06:57:17.648000-05:00,Solomon Bridge Sea Level Sensor
+850,-3.2219419999999968,2020-03-02 18:53:08.598000-05:00,Solomon Bridge Sea Level Sensor
+851,-3.0414869999999983,2020-03-03 08:05:04.131000-05:00,Solomon Bridge Sea Level Sensor
+852,-3.5467609999999983,2020-03-03 20:11:05.177000-05:00,Solomon Bridge Sea Level Sensor
+853,-3.2941239999999983,2020-03-04 09:53:28.989000-05:00,Solomon Bridge Sea Level Sensor
+854,-2.5099649999999993,2020-03-04 22:24:57.212000-05:00,Solomon Bridge Sea Level Sensor
+855,-2.486997999999998,2020-03-05 10:10:38.965000-05:00,Solomon Bridge Sea Level Sensor
+856,-3.011957999999998,2020-03-05 22:42:01.570000-05:00,Solomon Bridge Sea Level Sensor
+857,-4.3899779999999975,2020-03-06 11:43:52.966000-05:00,Solomon Bridge Sea Level Sensor
+858,-6.033758999999998,2020-03-06 23:49:57.854000-05:00,Solomon Bridge Sea Level Sensor
+859,-4.262018999999997,2020-03-07 12:06:12.257000-05:00,Solomon Bridge Sea Level Sensor
+860,-5.797526999999997,2020-03-08 01:02:57.732000-05:00,Solomon Bridge Sea Level Sensor
+861,-5.019929999999997,2020-03-08 14:09:09.040000-04:00,Solomon Bridge Sea Level Sensor
+862,-5.863147,2020-03-09 02:55:42.504000-04:00,Solomon Bridge Sea Level Sensor
+863,-5.810650999999998,2020-03-09 15:27:08.093000-04:00,Solomon Bridge Sea Level Sensor
+864,-6.319205999999996,2020-03-10 03:58:27.329000-04:00,Solomon Bridge Sea Level Sensor
+865,-6.089536000000001,2020-03-10 16:09:29.290000-04:00,Solomon Bridge Sea Level Sensor
+866,-6.542313999999999,2020-03-11 04:55:58.148000-04:00,Solomon Bridge Sea Level Sensor
+878,,,Solomon Bridge Sea Level Sensor
+884,,,Solomon Bridge Sea Level Sensor
+888,100.0,2020-02-23 12:00:00-05:00,fake
+889,-0.7382249999999999,2020-02-24 05:35:02.295000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+890,-0.7743159999999989,2020-02-24 18:04:04.297000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+891,-0.30513299999999965,2020-02-25 05:53:12.572000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+892,-0.06890099999999943,2020-02-25 18:44:18.062000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+893,-0.4462160000000006,2020-02-26 06:27:14.153000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+894,-0.515117,2020-02-26 18:54:48.145000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+895,-0.6233899999999997,2020-02-27 06:36:03.266000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+896,-0.8169690000000003,2020-02-27 19:06:21.627000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+897,-0.7907209999999996,2020-02-28 07:19:34.672000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+898,-0.8629029999999993,2020-02-28 19:49:14.747000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+899,-0.9350849999999991,2020-02-29 07:03:15.229000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+900,-1.026952999999999,2020-02-29 19:06:30.330000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+901,-0.9875809999999987,2020-03-01 07:28:35.092000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+902,-0.9908619999999999,2020-03-01 20:21:21.438000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+903,-1.0138289999999994,2020-03-02 09:09:05.154000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+904,-1.122102,2020-03-02 21:21:09.517000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+905,-1.1483500000000006,2020-03-03 11:03:25.780000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+906,-1.1910030000000003,2020-03-03 22:50:34.905000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+907,-1.0892920000000004,2020-03-04 10:21:51.076000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+908,1.3977060000000003,2020-03-04 21:50:18.271000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+909,2.9233710000000004,2020-03-05 10:24:06.036000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+910,2.733073000000001,2020-03-06 02:00:31.200000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+911,2.546056,2020-03-06 13:54:38.856000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+912,2.00141,2020-03-07 00:04:21.517000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+913,1.6437810000000006,2020-03-07 15:36:13.926000-05:00,Dean Forest Road at Harden Canal Sea Level Sensor
+914,1.1319450000000009,2020-03-08 04:43:54.571000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+915,0.9186800000000002,2020-03-08 17:32:50.884000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+916,0.5676129999999997,2020-03-09 05:47:38.862000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+917,0.3543479999999999,2020-03-09 18:35:48.255000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+918,0.09843000000000046,2020-03-10 06:47:40.640000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+919,0.01640499999999978,2020-03-10 19:14:56.588000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+920,-0.08858699999999864,2020-03-11 07:46:56.184000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+921,-0.18045499999999937,2020-03-11 20:08:54.047000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+922,-0.15420699999999954,2020-03-12 08:36:08.341000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+923,-0.29857099999999903,2020-03-12 20:54:33.723000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+924,-0.2788849999999998,2020-03-13 09:27:15.227000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+925,-0.5413649999999999,2020-03-13 21:34:30.441000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+926,-0.5676130000000006,2020-03-14 10:27:12.107000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+927,-0.7021339999999991,2020-03-14 21:59:44.294000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+928,-0.6693239999999996,2020-03-15 11:00:28.617000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+929,-0.8169690000000003,2020-03-15 22:21:57.439000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+930,-0.6201090000000002,2020-03-16 11:45:08.186000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+931,-0.8399359999999998,2020-03-16 23:36:23.272000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+932,-0.8464980000000004,2020-03-17 12:54:01.948000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+933,-1.0039860000000012,2020-03-18 00:45:39.842000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+934,-0.9777380000000004,2020-03-18 13:49:14.187000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+935,-1.0827299999999997,2020-03-19 02:00:08.892000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+936,-1.0466390000000008,2020-03-19 14:33:11.344000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+937,-1.1713170000000002,2020-03-20 03:00:35.943000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+938,-1.1778790000000008,2020-03-20 15:59:20.097000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+939,-1.2303750000000004,2020-03-21 04:22:12.013000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+940,-1.2763089999999995,2020-03-21 17:10:19.233000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+941,-1.2697470000000006,2020-03-22 04:52:00.863000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+942,-1.1056969999999993,2020-03-22 16:54:20.226000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+943,3.6484720000000004,2020-03-22 23:50:55.215000-04:00,Dean Forest Road at Harden Canal Sea Level Sensor
+944,100.0,2020-02-23 12:00:00-05:00,fake
+945,-3.927356999999999,2020-02-24 02:17:10.254000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+946,-4.0553159999999995,2020-02-24 15:08:16.343000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+947,-3.566447,2020-02-25 03:13:56.514000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+948,-4.288266999999999,2020-02-25 15:44:58.686000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+949,-3.9896960000000004,2020-02-26 03:45:37.870000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+950,-4.350605999999999,2020-02-26 16:01:35.271000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+951,-4.685268000000001,2020-02-27 03:58:42.808000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+952,-4.383416,2020-02-27 16:37:33.864000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+953,-3.779712,2020-02-28 04:33:04.296000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+954,-4.012663,2020-02-28 17:19:24.400000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+955,-4.376854,2020-02-29 05:04:40.060000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+956,-4.278423999999999,2020-02-29 17:35:46.196000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+957,-3.366306,2020-03-01 05:56:39.811000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+958,-3.7403399999999998,2020-03-01 18:02:28.353000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+959,-2.844627000000001,2020-03-02 06:59:43.725000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+960,-3.323653,2020-03-02 19:15:22.697000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+961,-3.330214999999999,2020-03-03 07:56:25.461000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+962,-3.5336370000000006,2020-03-03 19:46:59.938000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+963,-3.395835,2020-03-04 09:25:47.859000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+964,-2.8052550000000007,2020-03-04 21:27:06.808000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+965,-2.4180969999999995,2020-03-05 10:09:04.009000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+966,-3.002115,2020-03-05 22:39:59.083000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+967,-4.1865559999999995,2020-03-06 11:23:51.916000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+968,-5.754873999999999,2020-03-06 23:29:17.461000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+969,-4.373573,2020-03-07 12:05:10.431000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+970,-5.548171,2020-03-08 00:36:00.901000-05:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+971,-4.901814,2020-03-08 14:22:16.069000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+972,-5.594105000000001,2020-03-09 02:39:19.978000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+973,-5.541609000000001,2020-03-09 15:08:02.371000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+974,-5.968139000000001,2020-03-10 03:29:43.663000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+975,-5.8237749999999995,2020-03-10 15:56:32.263000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+976,-6.148593999999999,2020-03-11 04:33:40.957000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+977,-5.895956999999999,2020-03-11 16:44:28.307000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+978,-5.840180000000002,2020-03-12 05:10:32.491000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+979,-5.7778410000000004,2020-03-12 17:28:27.787000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+980,-5.407088,2020-03-13 06:10:15.380000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+981,-5.498956,2020-03-13 18:26:18.813000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+982,-5.262723999999999,2020-03-14 06:57:22.039000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+983,-4.596681,2020-03-14 18:58:00.816000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+984,-3.9700100000000003,2020-03-15 07:54:29.440000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+985,-3.8781420000000004,2020-03-15 19:39:59.799000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+986,-2.5198079999999994,2020-03-16 08:51:32.429000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+987,-2.890561,2020-03-16 20:57:35.199000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+988,-3.1792890000000007,2020-03-17 09:54:14.561000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+989,-2.956180999999999,2020-03-17 22:25:17.173000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+990,-3.2875619999999994,2020-03-18 10:51:25.738000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+991,-3.021801,2020-03-18 23:02:09.172000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+992,-3.6615959999999994,2020-03-19 11:53:31.984000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+993,-3.651753000000001,2020-03-20 00:09:24.962000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+994,-4.183275,2020-03-20 12:40:29.769000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+995,-4.383416,2020-03-21 01:31:51.542000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+996,-4.973996,2020-03-21 13:43:12.733000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+997,-4.750888,2020-03-22 01:29:05.297000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+998,-3.107106999999999,2020-03-22 14:15:27.554000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+999,-0.18373600000000057,2020-03-22 23:54:03.845000-04:00,Lazaretto Creek Fishing Pier Sea Level Sensor
+1000,100.0,2020-02-23 12:00:00-05:00,fake
+1001,-2.1556169999999995,2020-02-24 02:34:53.255000-05:00,Sullivan Street Sea Level Sensor
+1002,-2.1556169999999995,2020-02-24 17:03:15.769000-05:00,Sullivan Street Sea Level Sensor
+1003,-2.1195260000000005,2020-02-25 02:31:59.263000-05:00,Sullivan Street Sea Level Sensor
+1004,-2.1195260000000005,2020-02-25 16:55:41.978000-05:00,Sullivan Street Sea Level Sensor
+1005,-2.112964,2020-02-26 05:32:48.531000-05:00,Sullivan Street Sea Level Sensor
+1006,-2.122807,2020-02-26 17:34:09.343000-05:00,Sullivan Street Sea Level Sensor
+1007,-2.142493,2020-02-27 04:19:03.661000-05:00,Sullivan Street Sea Level Sensor
+1008,-2.1556169999999995,2020-02-27 18:57:34.317000-05:00,Sullivan Street Sea Level Sensor
+1009,-2.162179,2020-02-28 03:30:37.035000-05:00,Sullivan Street Sea Level Sensor
+1010,-2.1556169999999995,2020-02-28 18:14:36.876000-05:00,Sullivan Street Sea Level Sensor
+1011,-2.1556169999999995,2020-02-29 04:59:32.130000-05:00,Sullivan Street Sea Level Sensor
+1012,-2.142493,2020-02-29 19:17:45.040000-05:00,Sullivan Street Sea Level Sensor
+1013,-2.1392120000000006,2020-03-01 05:11:47.397000-05:00,Sullivan Street Sea Level Sensor
+1014,-2.1457739999999994,2020-03-01 19:40:23.444000-05:00,Sullivan Street Sea Level Sensor
+1015,-2.112964,2020-03-02 05:45:05.206000-05:00,Sullivan Street Sea Level Sensor
+1016,-2.1195260000000005,2020-03-02 17:41:16.773000-05:00,Sullivan Street Sea Level Sensor
+1017,-2.126088000000001,2020-03-03 06:38:20.910000-05:00,Sullivan Street Sea Level Sensor
+1018,-2.152336,2020-03-03 18:29:49.775000-05:00,Sullivan Street Sea Level Sensor
+1019,-2.152336,2020-03-04 10:40:20.741000-05:00,Sullivan Street Sea Level Sensor
+1020,-2.0178150000000006,2020-03-04 21:56:40.436000-05:00,Sullivan Street Sea Level Sensor
+1021,-2.076872999999999,2020-03-05 11:04:11.120000-05:00,Sullivan Street Sea Level Sensor
+1022,-2.0735919999999997,2020-03-05 23:13:31.296000-05:00,Sullivan Street Sea Level Sensor
+1023,-2.1457739999999994,2020-03-06 10:04:00.357000-05:00,Sullivan Street Sea Level Sensor
+1024,-2.1392120000000006,2020-03-06 21:51:32.855000-05:00,Sullivan Street Sea Level Sensor
+1025,-2.1392120000000006,2020-03-07 10:38:28.894000-05:00,Sullivan Street Sea Level Sensor
+1026,-2.142493,2020-03-07 22:59:51.756000-05:00,Sullivan Street Sea Level Sensor
+1027,-2.126088000000001,2020-03-08 12:51:45.751000-04:00,Sullivan Street Sea Level Sensor
+1028,-2.142493,2020-03-09 01:08:07.433000-04:00,Sullivan Street Sea Level Sensor
+1029,-2.1392120000000006,2020-03-09 16:52:43.120000-04:00,Sullivan Street Sea Level Sensor
+1030,-2.106401999999999,2020-03-10 05:39:28.610000-04:00,Sullivan Street Sea Level Sensor
+1031,-2.096559000000001,2020-03-10 15:48:50.410000-04:00,Sullivan Street Sea Level Sensor
+1032,-2.096559000000001,2020-03-11 04:51:04.207000-04:00,Sullivan Street Sea Level Sensor
+1033,-2.0998400000000004,2020-03-11 17:12:51.974000-04:00,Sullivan Street Sea Level Sensor
+1034,-2.0932779999999998,2020-03-12 04:08:14.521000-04:00,Sullivan Street Sea Level Sensor
+1035,-2.096559000000001,2020-03-12 19:52:43.611000-04:00,Sullivan Street Sea Level Sensor
+1036,-2.0932779999999998,2020-03-13 05:21:23.102000-04:00,Sullivan Street Sea Level Sensor
+1037,-2.103121,2020-03-13 20:20:38.143000-04:00,Sullivan Street Sea Level Sensor
+1038,-2.096559000000001,2020-03-14 06:45:19.281000-04:00,Sullivan Street Sea Level Sensor
+1039,-2.0932779999999998,2020-03-14 18:56:32.810000-04:00,Sullivan Street Sea Level Sensor
+1040,-2.0899970000000003,2020-03-15 07:07:58.332000-04:00,Sullivan Street Sea Level Sensor
+1041,-2.1457739999999994,2020-03-15 18:23:40.071000-04:00,Sullivan Street Sea Level Sensor
+1042,-2.106401999999999,2020-03-16 08:41:49.395000-04:00,Sullivan Street Sea Level Sensor
+1043,-2.142493,2020-03-16 20:32:58.005000-04:00,Sullivan Street Sea Level Sensor
+1044,-2.152336,2020-03-17 09:25:12.225000-04:00,Sullivan Street Sea Level Sensor
+1045,-2.112964,2020-03-17 22:01:53.469000-04:00,Sullivan Street Sea Level Sensor
+1046,-2.142493,2020-03-18 10:02:56.069000-04:00,Sullivan Street Sea Level Sensor
+1047,-2.13265,2020-03-18 22:04:12.513000-04:00,Sullivan Street Sea Level Sensor
+1048,-2.1392120000000006,2020-03-19 11:21:53.888000-04:00,Sullivan Street Sea Level Sensor
+1049,-2.13265,2020-03-19 22:37:24.691000-04:00,Sullivan Street Sea Level Sensor
+1050,-2.1293690000000005,2020-03-20 11:14:03.902000-04:00,Sullivan Street Sea Level Sensor
+1051,-2.1096830000000004,2020-03-21 00:46:52.099000-04:00,Sullivan Street Sea Level Sensor
+1052,-2.122807,2020-03-21 11:52:20.784000-04:00,Sullivan Street Sea Level Sensor
+1053,-2.1293690000000005,2020-03-21 23:38:11.251000-04:00,Sullivan Street Sea Level Sensor
+1054,-2.1392120000000006,2020-03-22 14:47:09.717000-04:00,Sullivan Street Sea Level Sensor
+1055,1.0597630000000002,2020-03-22 23:50:31.210000-04:00,Sullivan Street Sea Level Sensor
+1056,100.0,2020-02-23 12:00:00-05:00,fake
+1057,-2.191708000000001,2020-02-24 01:13:09.581000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1058,-2.076873,2020-02-24 14:00:23.067000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1059,-2.339353,2020-02-25 02:02:01.364000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1060,-2.404973000000001,2020-02-25 15:04:38.996000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1061,-2.536213000000001,2020-02-26 05:28:45.257000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1062,-2.3065430000000005,2020-02-26 15:23:28.917000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1063,-2.126088,2020-02-27 04:25:58.091000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1064,-2.0834350000000006,2020-02-27 15:01:34.054000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1065,-2.1753030000000004,2020-02-28 05:10:09.504000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1066,-2.0571870000000017,2020-02-28 18:43:44.505000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1067,-2.227799000000002,2020-02-29 07:00:52.037000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1068,-2.349196000000002,2020-02-29 19:37:55.617000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1069,-2.1392120000000014,2020-03-01 06:18:46.907000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1070,-2.0801539999999994,2020-03-01 19:16:13.273000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1071,-2.050625000000001,2020-03-02 07:12:32.568000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1072,-2.0637490000000005,2020-03-02 18:04:08.909000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1073,-2.0473440000000016,2020-03-03 06:36:18.934000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1074,-2.0932780000000006,2020-03-03 19:33:55.673000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1075,-2.263890000000001,2020-03-04 10:18:20.801000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1076,-1.9686000000000012,2020-03-04 23:21:43.895000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1077,-2.0637490000000005,2020-03-05 09:26:38.685000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1078,-2.2113939999999994,2020-03-05 22:24:22.147000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1079,-2.3163860000000005,2020-03-06 11:28:59.668000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1080,-2.313105000000001,2020-03-07 00:21:33.453000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1081,-2.2770140000000003,2020-03-07 12:53:59.185000-05:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1082,-2.303262000000001,2020-03-08 03:16:45.519000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1083,-2.359039,2020-03-08 15:23:27.387000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1084,-2.582147,2020-03-09 02:59:33.177000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1085,-2.4738740000000012,2020-03-09 14:20:20.678000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1086,-2.293418999999999,2020-03-10 05:40:06.789000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1087,-2.2770140000000003,2020-03-10 15:09:25.321000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1088,-2.3721629999999996,2020-03-11 03:21:08.574000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1089,-2.2704520000000015,2020-03-11 15:07:35.496000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1090,-2.201551000000001,2020-03-12 04:23:14.218000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1091,-2.06703,2020-03-12 16:17:08.463000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1092,-2.290138,2020-03-13 04:49:42.394000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1093,-8.258277,2020-03-13 19:49:56.824000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1094,-3.153040999999999,2020-03-14 07:26:51.201000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1095,-2.2409230000000013,2020-03-14 19:24:25.636000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1096,-2.267171000000002,2020-03-15 07:12:36.641000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1097,-2.4476260000000005,2020-03-15 18:41:18.128000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1098,-2.2967000000000004,2020-03-16 09:12:47.263000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1099,-2.1851460000000005,2020-03-16 21:10:15.466000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1100,-2.0473440000000016,2020-03-17 09:31:15.988000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1101,-2.6641720000000015,2020-03-17 21:39:17.470000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1102,-2.864313000000002,2020-03-18 11:52:35.671000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1103,-2.152336000000001,2020-03-18 22:47:56.711000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1104,-3.586133000000001,2020-03-19 10:43:50.696000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1105,-2.2113939999999994,2020-03-19 23:49:21.578000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1106,-2.552618,2020-03-20 12:47:23.956000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1107,-2.2343610000000007,2020-03-21 00:43:46.042000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1108,-2.4312210000000016,2020-03-21 11:40:32.132000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1109,-2.2802949999999997,2020-03-22 01:12:20.123000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1110,-2.575585000000001,2020-03-22 13:27:01.318000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1111,1.420672999999999,2020-03-22 23:52:05.270000-04:00,LaRoche Avenue at Nottingham Creek Sea Level Sensor
+1112,100.0,2020-02-23 12:00:00-05:00,fake
+1113,-3.2481899999999992,2020-02-24 03:34:32.588000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1114,-3.3334960000000002,2020-02-24 16:20:11.934000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1115,-3.0382060000000006,2020-02-25 03:54:09.141000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1116,-3.3072479999999995,2020-02-25 17:05:03.146000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1117,-3.3827109999999987,2020-02-26 04:49:10.440000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1118,-3.379430000000001,2020-02-26 17:29:34.664000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1119,-3.481140999999999,2020-02-27 05:49:36.876000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1120,-3.7108109999999996,2020-02-27 17:18:47.539000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1121,-3.4384879999999995,2020-02-28 05:18:09.750000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1122,-3.648472,2020-02-28 17:48:20.715000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1123,-3.527075,2020-02-29 05:57:57.167000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1124,-3.7272160000000003,2020-02-29 17:32:03.294000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1125,-3.2416279999999986,2020-03-01 06:12:13.817000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1126,-3.4942649999999986,2020-03-01 18:27:01.683000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1127,-2.8019739999999995,2020-03-02 07:22:39.079000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1128,-3.1858509999999995,2020-03-02 19:32:24.456000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1129,-2.972585999999998,2020-03-03 08:43:30.351000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1130,-3.346619999999998,2020-03-03 20:12:22.364000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1131,-3.254752,2020-03-04 09:43:40.537000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1132,-2.739635,2020-03-04 21:38:01.319000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1133,-2.441063999999999,2020-03-05 10:09:24.965000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1134,-2.8085359999999984,2020-03-05 23:00:46.652000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1135,-3.3827109999999987,2020-03-06 12:37:49.135000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1136,-3.527075,2020-03-06 23:36:21.475000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1137,-3.5795709999999996,2020-03-07 13:33:10.985000-05:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1138,-3.4516119999999972,2020-03-08 03:44:00.055000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1139,-3.477859999999998,2020-03-08 15:58:48.357000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1140,-3.379430000000001,2020-03-09 04:44:15.748000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1141,-3.4942649999999986,2020-03-09 17:09:11.437000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1142,-3.346619999999998,2020-03-10 05:44:13.900000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1143,-3.4253639999999983,2020-03-10 18:04:26.077000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1144,-3.3236529999999984,2020-03-11 06:34:26.858000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1145,-3.4188019999999995,2020-03-11 18:44:08.232000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1146,-3.3367769999999997,2020-03-12 07:24:27.804000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1147,-3.3827109999999987,2020-03-12 19:29:10.747000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1148,-3.3039669999999983,2020-03-13 08:14:32.800000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1149,-3.4253639999999983,2020-03-13 20:19:13.402000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1150,-3.3728679999999986,2020-03-14 08:59:32.086000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1151,-3.5205129999999976,2020-03-14 19:47:42.792000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1152,-3.2022559999999984,2020-03-15 09:03:42.794000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1153,-3.461454999999999,2020-03-15 20:37:40.159000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1154,-2.3065429999999996,2020-03-16 09:23:08.694000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1155,-2.723229999999999,2020-03-16 21:12:26.117000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1156,-2.851188999999998,2020-03-17 10:43:56.833000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1157,-2.861032,2020-03-17 22:07:42.160000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1158,-3.0907020000000003,2020-03-18 11:34:01.263000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1159,-2.936494999999997,2020-03-18 23:43:42.566000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1160,-3.284281,2020-03-19 12:34:16.412000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1161,-3.402396999999999,2020-03-20 00:33:44.186000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1162,-2.9889909999999986,2020-03-20 12:07:43.922000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1163,-3.510670000000001,2020-03-21 01:59:29.168000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1164,-3.543479999999999,2020-03-21 14:04:11.836000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1165,-3.517232,2020-03-22 03:20:19.142000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1166,-3.133355,2020-03-22 14:33:54.865000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1167,0.8793080000000018,2020-03-22 23:50:11.039000-04:00,Hwy 80 at Chimney Creek on Tybee Island Sea Level Sensor
+1168,100.0,2020-02-23 12:00:00-05:00,fake
+1169,100.0,2020-02-23 12:00:00-05:00,fake
+1170,-4.061877999999998,2020-02-24 03:08:19.043000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1171,-4.104530999999996,2020-02-24 15:44:44.803000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1172,-3.743620999999999,2020-02-25 03:45:33.670000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1173,-4.278423999999996,2020-02-25 16:37:09.353000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1174,-4.117654999999997,2020-02-26 04:07:31.378000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1175,-4.426069,2020-02-26 16:38:49.136000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1176,-5.108516999999997,2020-02-27 04:34:31.112000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1177,-4.455597999999997,2020-02-27 16:55:40.680000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1178,-3.8945469999999975,2020-02-28 05:01:34.158000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1179,-4.019224999999997,2020-02-28 17:43:05.916000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1180,-4.491688999999999,2020-02-29 05:33:41.315000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1181,-4.3538869999999985,2020-02-29 17:24:26.379000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1182,-3.3925539999999987,2020-03-01 06:21:08.547000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1183,-3.750182999999998,2020-03-01 18:16:56.681000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1184,-2.7888499999999983,2020-03-02 06:53:16.672000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1185,-3.3138099999999984,2020-03-02 19:19:28.935000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1186,-3.077577999999999,2020-03-03 07:55:49.641000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1187,-3.5106699999999975,2020-03-03 20:11:55.824000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1188,-3.3531820000000003,2020-03-04 09:54:20.781000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1189,-2.618238,2020-03-04 22:00:12.811000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1190,-2.6379239999999964,2020-03-05 10:16:16.847000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1191,-3.0053959999999975,2020-03-05 22:47:33.006000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1192,-4.262018999999997,2020-03-06 11:59:29.007000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1193,-5.853304,2020-03-07 00:00:17.657000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1194,-4.255456999999998,2020-03-07 12:41:44.032000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1195,-5.554732999999997,2020-03-08 01:13:03.771000-05:00,Faye Drive on Burnside Island Sea Level Sensor
+1196,-4.846036999999997,2020-03-08 14:34:15.599000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1197,-5.508798999999998,2020-03-09 03:15:40.828000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1198,-5.370996999999997,2020-03-09 15:52:06.279000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1199,-5.804088999999999,2020-03-10 04:23:20.870000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1200,-5.623633999999997,2020-03-10 16:44:30.952000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1201,-5.964857999999998,2020-03-11 05:15:45.061000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1202,-5.722063999999998,2020-03-11 17:36:57.196000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1203,-5.682692000000001,2020-03-12 06:03:08.367000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1204,-5.6531629999999975,2020-03-12 18:14:07.379000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1205,-5.305376999999998,2020-03-13 06:50:26.708000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1206,-5.393963999999999,2020-03-13 19:01:27.412000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1207,-5.288971999999999,2020-03-14 07:37:47.808000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1208,-4.711515999999998,2020-03-14 19:33:35.679000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1209,-4.081563999999998,2020-03-15 08:20:06.351000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1210,-3.960167,2020-03-15 20:00:40.220000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1211,-2.6313619999999975,2020-03-16 09:02:23.393000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1212,-2.9332139999999995,2020-03-16 21:18:30.750000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1213,-3.2678759999999976,2020-03-17 10:10:06.954000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1214,-2.775725999999999,2020-03-17 22:00:44.634000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1215,-3.3269339999999996,2020-03-18 11:33:00.688000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1216,-3.002115,2020-03-18 23:43:55.958000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1217,-3.7534639999999992,2020-03-19 12:00:01.110000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1218,-3.7009679999999996,2020-03-20 00:26:10.071000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1219,-4.186555999999998,2020-03-20 13:07:35.889000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1220,-4.376854,2020-03-21 01:23:37.115000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1221,-5.1019549999999985,2020-03-21 14:10:12.724000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1222,-4.846036999999997,2020-03-22 01:55:43.706000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1223,-3.1760079999999995,2020-03-22 14:26:58.139000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1224,0.9416470000000015,2020-03-22 23:50:25.618000-04:00,Faye Drive on Burnside Island Sea Level Sensor
+1225,100.0,2020-02-23 12:00:00-05:00,fake
+1226,-6.302801,2020-02-24 02:38:31.795000-05:00,Delegal Creek Marina Sea Level Sensor
+1227,-6.437322000000001,2020-02-24 15:20:13.725000-05:00,Delegal Creek Marina Sea Level Sensor
+1228,-5.971419999999999,2020-02-25 03:21:14.787000-05:00,Delegal Creek Marina Sea Level Sensor
+1229,-6.581686,2020-02-25 16:02:52.431000-05:00,Delegal Creek Marina Sea Level Sensor
+1230,-6.322487,2020-02-26 03:33:24.999000-05:00,Delegal Creek Marina Sea Level Sensor
+1231,-6.666992,2020-02-26 16:10:00.105000-05:00,Delegal Creek Marina Sea Level Sensor
+1232,-7.277258000000001,2020-02-27 04:10:58.349000-05:00,Delegal Creek Marina Sea Level Sensor
+1233,-6.771984000000001,2020-02-27 17:02:47.883000-05:00,Delegal Creek Marina Sea Level Sensor
+1234,-6.145313000000001,2020-02-28 04:43:23.381000-05:00,Delegal Creek Marina Sea Level Sensor
+1235,-6.4045119999999995,2020-02-28 17:09:52.775000-05:00,Delegal Creek Marina Sea Level Sensor
+1236,-6.676835000000001,2020-02-29 05:15:53.476000-05:00,Delegal Creek Marina Sea Level Sensor
+1237,-6.762141000000001,2020-02-29 17:37:18.226000-05:00,Delegal Creek Marina Sea Level Sensor
+1238,-5.712221,2020-03-01 05:58:30.733000-05:00,Delegal Creek Marina Sea Level Sensor
+1239,-6.06985,2020-03-01 18:14:50.228000-05:00,Delegal Creek Marina Sea Level Sensor
+1240,-5.138046,2020-03-02 06:25:58.223000-05:00,Delegal Creek Marina Sea Level Sensor
+1241,-5.7319070000000005,2020-03-02 18:57:31.449000-05:00,Delegal Creek Marina Sea Level Sensor
+1242,-5.5055179999999995,2020-03-03 08:14:40.467000-05:00,Delegal Creek Marina Sea Level Sensor
+1243,-5.827056,2020-03-03 19:55:28.252000-05:00,Delegal Creek Marina Sea Level Sensor
+1244,-5.659725000000001,2020-03-04 09:38:09.711000-05:00,Delegal Creek Marina Sea Level Sensor
+1245,-5.069145,2020-03-04 21:34:08.210000-05:00,Delegal Creek Marina Sea Level Sensor
+1246,-4.977277,2020-03-05 10:25:57.175000-05:00,Delegal Creek Marina Sea Level Sensor
+1247,-5.315220000000001,2020-03-05 22:21:57.214000-05:00,Delegal Creek Marina Sea Level Sensor
+1248,-6.516066000000001,2020-03-06 11:34:03.370000-05:00,Delegal Creek Marina Sea Level Sensor
+1249,-8.084384,2020-03-06 23:40:05.263000-05:00,Delegal Creek Marina Sea Level Sensor
+1250,-6.601371999999999,2020-03-07 12:26:49.049000-05:00,Delegal Creek Marina Sea Level Sensor
+1251,-7.841589999999999,2020-03-08 00:42:59.527000-05:00,Delegal Creek Marina Sea Level Sensor
+1252,-7.1624229999999995,2020-03-08 14:19:41.973000-04:00,Delegal Creek Marina Sea Level Sensor
+1253,-7.818623,2020-03-09 02:51:13.512000-04:00,Delegal Creek Marina Sea Level Sensor
+1254,-7.6972260000000015,2020-03-09 15:22:44.233000-04:00,Delegal Creek Marina Sea Level Sensor
+1255,-8.130317999999999,2020-03-10 03:49:03.993000-04:00,Delegal Creek Marina Sea Level Sensor
+1256,-7.923615000000001,2020-03-10 16:10:25.971000-04:00,Delegal Creek Marina Sea Level Sensor
+1257,-8.300930000000001,2020-03-11 04:46:55.312000-04:00,Delegal Creek Marina Sea Level Sensor
+1258,-8.061416999999999,2020-03-11 17:03:13.524000-04:00,Delegal Creek Marina Sea Level Sensor
+1259,-8.002359000000002,2020-03-12 05:39:42.016000-04:00,Delegal Creek Marina Sea Level Sensor
+1260,-7.933458000000001,2020-03-12 17:48:50.514000-04:00,Delegal Creek Marina Sea Level Sensor
+1261,-7.628325000000001,2020-03-13 06:30:26.518000-04:00,Delegal Creek Marina Sea Level Sensor
+1262,-7.7169120000000015,2020-03-13 18:36:46.561000-04:00,Delegal Creek Marina Sea Level Sensor
+1263,-7.503647,2020-03-14 07:08:10.530000-04:00,Delegal Creek Marina Sea Level Sensor
+1264,-6.998373,2020-03-14 18:59:06.832000-04:00,Delegal Creek Marina Sea Level Sensor
+1265,-6.250305,2020-03-15 07:55:54.734000-04:00,Delegal Creek Marina Sea Level Sensor
+1266,-6.217495,2020-03-15 19:51:52.592000-04:00,Delegal Creek Marina Sea Level Sensor
+1267,-4.872285000000001,2020-03-16 09:09:00.110000-04:00,Delegal Creek Marina Sea Level Sensor
+1268,-5.193823000000001,2020-03-16 21:04:57.915000-04:00,Delegal Creek Marina Sea Level Sensor
+1269,-5.482551,2020-03-17 09:51:41.318000-04:00,Delegal Creek Marina Sea Level Sensor
+1270,-5.144608000000001,2020-03-17 22:28:19.291000-04:00,Delegal Creek Marina Sea Level Sensor
+1271,-5.6006670000000005,2020-03-18 11:09:59.234000-04:00,Delegal Creek Marina Sea Level Sensor
+1272,-5.318501,2020-03-18 23:10:58.225000-04:00,Delegal Creek Marina Sea Level Sensor
+1273,-5.971419999999999,2020-03-19 12:17:59.271000-04:00,Delegal Creek Marina Sea Level Sensor
+1274,-5.93861,2020-03-20 00:29:06.520000-04:00,Delegal Creek Marina Sea Level Sensor
+1275,-6.443884,2020-03-20 13:05:41.559000-04:00,Delegal Creek Marina Sea Level Sensor
+1276,-6.676835000000001,2020-03-21 01:26:57.022000-04:00,Delegal Creek Marina Sea Level Sensor
+1277,-7.339597,2020-03-21 13:38:09.105000-04:00,Delegal Creek Marina Sea Level Sensor
+1278,-7.041026,2020-03-22 01:54:22.208000-04:00,Delegal Creek Marina Sea Level Sensor
+1279,-5.475989000000001,2020-03-22 14:15:42.100000-04:00,Delegal Creek Marina Sea Level Sensor
+1280,-2.076873,2020-03-22 23:54:34.512000-04:00,Delegal Creek Marina Sea Level Sensor
+1281,100.0,2020-02-23 12:00:00-05:00,fake
+1282,100.0,2020-02-23 12:00:00-05:00,fake
+1283,-3.822365000000003,2020-02-24 02:48:19.772000-05:00,Bull River Marina environmental sensors
+1284,-3.8847039999999993,2020-02-24 15:33:13.018000-05:00,Bull River Marina environmental sensors
+1285,-3.4483309999999996,2020-02-25 03:27:45.352000-05:00,Bull River Marina environmental sensors
+1286,-4.094688,2020-02-25 15:57:31.472000-05:00,Bull River Marina environmental sensors
+1287,-3.8256460000000008,2020-02-26 03:52:01.637000-05:00,Bull River Marina environmental sensors
+1288,-4.117655000000003,2020-02-26 16:41:59.045000-05:00,Bull River Marina environmental sensors
+1289,-4.334201000000002,2020-02-27 04:51:36.065000-05:00,Bull River Marina environmental sensors
+1290,-4.1406220000000005,2020-02-27 16:51:10.730000-05:00,Bull River Marina environmental sensors
+1291,-3.6320669999999993,2020-02-28 04:55:44.862000-05:00,Bull River Marina environmental sensors
+1292,-3.7436210000000028,2020-02-28 17:25:38.650000-05:00,Bull River Marina environmental sensors
+1293,-4.1406220000000005,2020-02-29 05:25:10.154000-05:00,Bull River Marina environmental sensors
+1294,-4.097969000000001,2020-02-29 17:39:53.391000-05:00,Bull River Marina environmental sensors
+1295,-3.1694460000000007,2020-03-01 06:09:37.058000-05:00,Bull River Marina environmental sensors
+1296,-3.4942650000000004,2020-03-01 18:19:18.377000-05:00,Bull River Marina environmental sensors
+1297,-2.6248000000000022,2020-03-02 06:49:02.617000-05:00,Bull River Marina environmental sensors
+1298,-3.051330000000002,2020-03-02 19:13:49.909000-05:00,Bull River Marina environmental sensors
+1299,-2.9266520000000007,2020-03-03 07:58:44.056000-05:00,Bull River Marina environmental sensors
+1300,-3.2711570000000023,2020-03-03 20:08:25.358000-05:00,Bull River Marina environmental sensors
+1301,-3.1300740000000022,2020-03-04 09:33:32.168000-05:00,Bull River Marina environmental sensors
+1302,-2.4377829999999996,2020-03-04 21:33:07.336000-05:00,Bull River Marina environmental sensors
+1303,-2.3524770000000004,2020-03-05 10:12:56.167000-05:00,Bull River Marina environmental sensors
+1304,-2.746197000000002,2020-03-05 22:27:37.479000-05:00,Bull River Marina environmental sensors
+1305,-4.065159000000001,2020-03-06 11:32:38.816000-05:00,Bull River Marina environmental sensors
+1306,-4.291548000000002,2020-03-07 00:02:25.714000-05:00,Bull River Marina environmental sensors
+1307,-4.130779,2020-03-07 12:22:10.792000-05:00,Bull River Marina environmental sensors
+1308,-4.252176,2020-03-08 00:56:59.646000-05:00,Bull River Marina environmental sensors
+1309,-4.383416,2020-03-08 15:07:04.692000-04:00,Bull River Marina environmental sensors
+1310,-4.199680000000001,2020-03-09 02:26:24.648000-04:00,Bull River Marina environmental sensors
+1311,-4.229209000000001,2020-03-09 16:21:47.497000-04:00,Bull River Marina environmental sensors
+1312,-4.130779,2020-03-10 02:20:36.188000-04:00,Bull River Marina environmental sensors
+1313,-4.373573,2020-03-10 16:26:06.803000-04:00,Bull River Marina environmental sensors
+1314,-4.117655000000003,2020-03-11 04:30:42.903000-04:00,Bull River Marina environmental sensors
+1315,-4.147184000000001,2020-03-11 17:25:43.371000-04:00,Bull River Marina environmental sensors
+1316,-4.1143740000000015,2020-03-12 05:25:16.130000-04:00,Bull River Marina environmental sensors
+1317,-4.2456140000000016,2020-03-12 17:19:51.519000-04:00,Bull River Marina environmental sensors
+1318,-4.094688,2020-03-13 05:19:27.371000-04:00,Bull River Marina environmental sensors
+1319,-4.1504650000000005,2020-03-13 19:14:51.606000-04:00,Bull River Marina environmental sensors
+1320,-4.127498000000003,2020-03-14 08:14:48.024000-04:00,Bull River Marina environmental sensors
+1321,-4.199680000000001,2020-03-14 18:43:49.269000-04:00,Bull River Marina environmental sensors
+1322,-3.822365000000003,2020-03-15 08:03:50.981000-04:00,Bull River Marina environmental sensors
+1323,-3.7009679999999996,2020-03-15 20:08:29.403000-04:00,Bull River Marina environmental sensors
+1324,-2.3918490000000006,2020-03-16 09:03:23.617000-04:00,Bull River Marina environmental sensors
+1325,-2.6444860000000006,2020-03-16 21:23:09.637000-04:00,Bull River Marina environmental sensors
+1326,-3.097264000000001,2020-03-17 10:03:00.535000-04:00,Bull River Marina environmental sensors
+1327,-2.5887090000000015,2020-03-17 21:42:28.245000-04:00,Bull River Marina environmental sensors
+1328,-3.0939830000000015,2020-03-18 11:12:38.258000-04:00,Bull River Marina environmental sensors
+1329,-2.798693000000002,2020-03-18 23:22:15.077000-04:00,Bull River Marina environmental sensors
+1330,-3.4483309999999996,2020-03-19 12:02:08.728000-04:00,Bull River Marina environmental sensors
+1331,-3.435207000000002,2020-03-20 00:21:45.257000-04:00,Bull River Marina environmental sensors
+1332,-3.894547000000001,2020-03-20 12:56:37.084000-04:00,Bull River Marina environmental sensors
+1333,-4.058597000000001,2020-03-21 01:11:14.843000-04:00,Bull River Marina environmental sensors
+1334,-4.209523000000001,2020-03-21 14:41:25.480000-04:00,Bull River Marina environmental sensors
+1335,-4.147184000000001,2020-03-22 02:00:42.274000-04:00,Bull River Marina environmental sensors
+1336,-2.929933000000002,2020-03-22 14:25:26.479000-04:00,Bull River Marina environmental sensors
+1337,0.6561999999999983,2020-03-22 23:54:05.713000-04:00,Bull River Marina environmental sensors
